@@ -1,0 +1,1332 @@
+{
+  "Request numbers": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Request numbers."
+    },
+    {
+      "column_name": "on_hand_1_july_2023",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Personal information. If the value is ≤ 0 then the data represents no information has been On Hand 1 July 2023; if the value is > 0 then the data represents information has been On Hand 1 July 2023 and the given data is the total value requested."
+    },
+    {
+      "column_name": "on_hand_1_july_2023.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Other information. If the value is ≤ 0 then the data represents no information has been On Hand 1 July 2023 Other; if the value is > 0 then the data represents information has been On Hand 1 July 2023 Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "on_hand_1_july_2023.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Total information. If the value is ≤ 0 then the data represents no information has been On Hand 1 July 2023 Total; if the value is > 0 then the data represents information has been On Hand 1 July 2023 Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_received_from_applicant",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Personal information. If the value is ≤ 0 then the data represents no information has been Requests received from applicant; if the value is > 0 then the data represents information has been Requests received from applicant and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_received_from_applicant.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Other information. If the value is ≤ 0 then the data represents no information has been Requests received from applicant Other; if the value is > 0 then the data represents information has been Requests received from applicant Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_received_from_applicant.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Total information. If the value is ≤ 0 then the data represents no information has been Requests received from applicant Total; if the value is > 0 then the data represents information has been Requests received from applicant Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_on_transfer",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Personal information. If the value is ≤ 0 then the data represents no information has been Requests on transfer; if the value is > 0 then the data represents information has been Requests on transfer and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_on_transfer.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Other information. If the value is ≤ 0 then the data represents no information has been Requests on transfer Other; if the value is > 0 then the data represents information has been Requests on transfer Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_on_transfer.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Total information. If the value is ≤ 0 then the data represents no information has been Requests on transfer Total; if the value is > 0 then the data represents information has been Requests on transfer Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_requests_received",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Personal information. If the value is ≤ 0 then the data represents no information has been Total requests received; if the value is > 0 then the data represents information has been Total requests received and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_requests_received.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Other information. If the value is ≤ 0 then the data represents no information has been Total requests received Other; if the value is > 0 then the data represents information has been Total requests received Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_requests_received.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Total information. If the value is ≤ 0 then the data represents no information has been Total requests received Total; if the value is > 0 then the data represents information has been Total requests received Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "percent_share_of_total_of_all_agencies'_requests_received",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been percent share of total of all agencies' requests received; if the value is > 0 then the data represents information has been percent share of total of all agencies' requests received and the given data is the total value requested."
+    },
+    {
+      "column_name": "percent_share_of_total_of_all_agencies'_requests_received.1",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Other information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been percent share of total of all agencies' requests received Other; if the value is > 0 then the data represents information has been percent share of total of all agencies' requests received Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "percent_share_of_total_of_all_agencies'_requests_received.2",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Total information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been percent share of total of all agencies' requests received Total; if the value is > 0 then the data represents information has been percent share of total of all agencies' requests received Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_finalised",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Personal information. If the value is ≤ 0 then the data represents no information has been Requests finalised; if the value is > 0 then the data represents information has been Requests finalised and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_finalised.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Other information. If the value is ≤ 0 then the data represents no information has been Requests finalised Other; if the value is > 0 then the data represents information has been Requests finalised Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_finalised.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Total information. If the value is ≤ 0 then the data represents no information has been Requests finalised Total; if the value is > 0 then the data represents information has been Requests finalised Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "on_hand_30_june_2024",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Personal information. If the value is ≤ 0 then the data represents no information has been On hand 30 June 2024; if the value is > 0 then the data represents information has been On hand 30 June 2024 and the given data is the total value requested."
+    },
+    {
+      "column_name": "on_hand_30_june_2024.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Other information. If the value is ≤ 0 then the data represents no information has been On hand 30 June 2024 Other; if the value is > 0 then the data represents information has been On hand 30 June 2024 Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "on_hand_30_june_2024.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Request numbers for Total information. If the value is ≤ 0 then the data represents no information has been On hand 30 June 2024 Total; if the value is > 0 then the data represents information has been On hand 30 June 2024 Total and the given data is the total value requested."
+    }
+  ],
+  "Action on requests": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Action on requests."
+    },
+    {
+      "column_name": "granted_in_full",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Personal information. If the value is ≤ 0 then the data represents no information has been Granted in Full; if the value is > 0 then the data represents information has been Granted in Full and the given data is the total value requested."
+    },
+    {
+      "column_name": "granted_in_full.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Other information. If the value is ≤ 0 then the data represents no information has been Granted in Full Other; if the value is > 0 then the data represents information has been Granted in Full Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "granted_in_full.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Total information. If the value is ≤ 0 then the data represents no information has been Granted in Full Total; if the value is > 0 then the data represents information has been Granted in Full Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "granted_in_full.3",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for percentage information. If the value is ≤ 0 then the data represents no information has been Granted in Full percentage; if the value is > 0 then the data represents information has been Granted in Full percentage and the given data is the total value requested."
+    },
+    {
+      "column_name": "granted_in_part",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Granted in Part; if the value is > 0 then the data represents information has been Granted in Part and the given data is the total value requested."
+    },
+    {
+      "column_name": "granted_in_part.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Other information. If the value is ≤ 0 then the data represents no information has been Granted in Part Other; if the value is > 0 then the data represents information has been Granted in Part Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "granted_in_part.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Total information. If the value is ≤ 0 then the data represents no information has been Granted in Part Total; if the value is > 0 then the data represents information has been Granted in Part Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "granted_in_part.3",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for percentage information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Granted in Part percentage; if the value is > 0 then the data represents information has been Granted in Part percentage and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_refused",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Personal information. If the value is ≤ 0 then the data represents no information has been Access refused; if the value is > 0 then the data represents information has been Access refused and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_refused.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Other information. If the value is ≤ 0 then the data represents no information has been Access refused Other; if the value is > 0 then the data represents information has been Access refused Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_refused.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Total information. If the value is ≤ 0 then the data represents no information has been Access refused Total; if the value is > 0 then the data represents information has been Access refused Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_refused.3",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for percentage information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Access refused percentage; if the value is > 0 then the data represents information has been Access refused percentage and the given data is the total value requested."
+    },
+    {
+      "column_name": "transferred",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Personal information. If the value is ≤ 0 then the data represents no information has been Transferred; if the value is > 0 then the data represents information has been Transferred and the given data is the total value requested."
+    },
+    {
+      "column_name": "transferred.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Other information. If the value is ≤ 0 then the data represents no information has been Transferred Other; if the value is > 0 then the data represents information has been Transferred Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "transferred.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Total information. If the value is ≤ 0 then the data represents no information has been Transferred Total; if the value is > 0 then the data represents information has been Transferred Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "withdrawn",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Personal information. If the value is ≤ 0 then the data represents no information has been Withdrawn; if the value is > 0 then the data represents information has been Withdrawn and the given data is the total value requested."
+    },
+    {
+      "column_name": "withdrawn.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Other information. If the value is ≤ 0 then the data represents no information has been Withdrawn Other; if the value is > 0 then the data represents information has been Withdrawn Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "withdrawn.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Total information. If the value is ≤ 0 then the data represents no information has been Withdrawn Total; if the value is > 0 then the data represents information has been Withdrawn Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_determined",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Personal information. If the value is ≤ 0 then the data represents no information has been Total determined; if the value is > 0 then the data represents information has been Total determined and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_determined.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Other information. If the value is ≤ 0 then the data represents no information has been Total determined Other; if the value is > 0 then the data represents information has been Total determined Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_determined.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Action on requests for Total information. If the value is ≤ 0 then the data represents no information has been Total determined Total; if the value is > 0 then the data represents information has been Total determined Total and the given data is the total value requested."
+    }
+  ],
+  "Response times": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Response times."
+    },
+    {
+      "column_name": "requests_determined",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Personal information. If the value is ≤ 0 then the data represents no information has been Requests determined; if the value is > 0 then the data represents information has been Requests determined and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_determined.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Other information. If the value is ≤ 0 then the data represents no information has been Requests determined Other; if the value is > 0 then the data represents information has been Requests determined Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_determined.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Total information. If the value is ≤ 0 then the data represents no information has been Requests determined Total; if the value is > 0 then the data represents information has been Requests determined Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_within_statutory_time_period",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Personal information. If the value is ≤ 0 then the data represents no information has been Response time within statutory time period; if the value is > 0 then the data represents information has been Response time within statutory time period and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_within_statutory_time_period.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Other information. If the value is ≤ 0 then the data represents no information has been Response time within statutory time period Other; if the value is > 0 then the data represents information has been Response time within statutory time period Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_within_statutory_time_period.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Total information. If the value is ≤ 0 then the data represents no information has been Response time within statutory time period Total; if the value is > 0 then the data represents information has been Response time within statutory time period Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_up_to_30_days_after_statutory_period",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Personal information. If the value is ≤ 0 then the data represents no information has been Response time up to 30 days after statutory period; if the value is > 0 then the data represents information has been Response time up to 30 days after statutory period and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_up_to_30_days_after_statutory_period.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Other information. If the value is ≤ 0 then the data represents no information has been Response time up to 30 days after statutory period Other; if the value is > 0 then the data represents information has been Response time up to 30 days after statutory period Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_up_to_30_days_after_statutory_period.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Total information. If the value is ≤ 0 then the data represents no information has been Response time up to 30 days after statutory period Total; if the value is > 0 then the data represents information has been Response time up to 30 days after statutory period Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_31_-_60_days_after_statutory_period",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Personal information. If the value is ≤ 0 then the data represents no information has been Response time 31 - 60 days after statutory period; if the value is > 0 then the data represents information has been Response time 31 - 60 days after statutory period and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_31_-_60_days_after_statutory_period.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Other information. If the value is ≤ 0 then the data represents no information has been Response time 31 - 60 days after statutory period Other; if the value is > 0 then the data represents information has been Response time 31 - 60 days after statutory period Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_31_-_60_days_after_statutory_period.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Total information. If the value is ≤ 0 then the data represents no information has been Response time 31 - 60 days after statutory period Total; if the value is > 0 then the data represents information has been Response time 31 - 60 days after statutory period Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_61_-_90_days_after_statutory_period",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Personal information. If the value is ≤ 0 then the data represents no information has been Response time 61 - 90 days after statutory period; if the value is > 0 then the data represents information has been Response time 61 - 90 days after statutory period and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_61_-_90_days_after_statutory_period.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Other information. If the value is ≤ 0 then the data represents no information has been Response time 61 - 90 days after statutory period Other; if the value is > 0 then the data represents information has been Response time 61 - 90 days after statutory period Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_61_-_90_days_after_statutory_period.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Total information. If the value is ≤ 0 then the data represents no information has been Response time 61 - 90 days after statutory period Total; if the value is > 0 then the data represents information has been Response time 61 - 90 days after statutory period Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_over_90_days_after_statutory_period",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Personal information. If the value is ≤ 0 then the data represents no information has been Response time over 90 days after statutory period; if the value is > 0 then the data represents information has been Response time over 90 days after statutory period and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_over_90_days_after_statutory_period.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Other information. If the value is ≤ 0 then the data represents no information has been Response time over 90 days after statutory period Other; if the value is > 0 then the data represents information has been Response time over 90 days after statutory period Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_over_90_days_after_statutory_period.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Response times for Total information. If the value is ≤ 0 then the data represents no information has been Response time over 90 days after statutory period Total; if the value is > 0 then the data represents information has been Response time over 90 days after statutory period Total and the given data is the total value requested."
+    }
+  ],
+  "Charges": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Charges."
+    },
+    {
+      "column_name": "requests_received",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Personal information. If the value is ≤ 0 then the data represents no information has been Requests Received; if the value is > 0 then the data represents information has been Requests Received and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_received.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Other information. If the value is ≤ 0 then the data represents no information has been Requests Received Other; if the value is > 0 then the data represents information has been Requests Received Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_received.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Total information. If the value is ≤ 0 then the data represents no information has been Requests Received Total; if the value is > 0 then the data represents information has been Requests Received Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_where_charges_notified",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Personal information. If the value is ≤ 0 then the data represents no information has been Requests where charges notified; if the value is > 0 then the data represents information has been Requests where charges notified and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_where_charges_notified.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Other information. If the value is ≤ 0 then the data represents no information has been Requests where charges notified Other; if the value is > 0 then the data represents information has been Requests where charges notified Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_where_charges_notified.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Total information. If the value is ≤ 0 then the data represents no information has been Requests where charges notified Total; if the value is > 0 then the data represents information has been Requests where charges notified Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_charges_notified_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Personal information. If the value is ≤ 0 then the data represents no information has been Total charges notified ($); if the value is > 0 then the data represents information has been Total charges notified ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_charges_notified_($).1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Other information. If the value is ≤ 0 then the data represents no information has been Total charges notified ($) Other; if the value is > 0 then the data represents information has been Total charges notified ($) Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_charges_notified_($).2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Total information. If the value is ≤ 0 then the data represents no information has been Total charges notified ($) Total; if the value is > 0 then the data represents information has been Total charges notified ($) Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_charges_collected_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Personal information. If the value is ≤ 0 then the data represents no information has been Total charges collected ($); if the value is > 0 then the data represents information has been Total charges collected ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_charges_collected_($).1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Other information. If the value is ≤ 0 then the data represents no information has been Total charges collected ($) Other; if the value is > 0 then the data represents information has been Total charges collected ($) Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_charges_collected_($).2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges for Total information. If the value is ≤ 0 then the data represents no information has been Total charges collected ($) Total; if the value is > 0 then the data represents information has been Total charges collected ($) Total and the given data is the total value requested."
+    }
+  ],
+  "Internal review": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Internal review."
+    },
+    {
+      "column_name": "applications_for_internal_review",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Applications for internal review; if the value is > 0 then the data represents information has been Applications for internal review and the given data is the total value requested."
+    },
+    {
+      "column_name": "application",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Application; if the value is > 0 then the data represents information has been Application and the given data is the total value requested."
+    },
+    {
+      "column_name": "application.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Other information. If the value is ≤ 0 then the data represents no information has been Application Other; if the value is > 0 then the data represents information has been Application Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "percent_of_total_applications",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been percent of total applications; if the value is > 0 then the data represents information has been percent of total applications and the given data is the total value requested."
+    },
+    {
+      "column_name": "decisions_affirmed",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Decisions affirmed; if the value is > 0 then the data represents information has been Decisions affirmed and the given data is the total value requested."
+    },
+    {
+      "column_name": "decisions_affirmed.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Other information. If the value is ≤ 0 then the data represents no information has been Decisions affirmed Other; if the value is > 0 then the data represents information has been Decisions affirmed Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "decisions_affirmed.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Total information. If the value is ≤ 0 then the data represents no information has been Decisions affirmed Total; if the value is > 0 then the data represents information has been Decisions affirmed Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_in_full",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Access granted in full; if the value is > 0 then the data represents information has been Access granted in full and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_in_full.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Other information. If the value is ≤ 0 then the data represents no information has been Access granted in full Other; if the value is > 0 then the data represents information has been Access granted in full Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_in_full.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Total information. If the value is ≤ 0 then the data represents no information has been Access granted in full Total; if the value is > 0 then the data represents information has been Access granted in full Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_in_part",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Access granted in part; if the value is > 0 then the data represents information has been Access granted in part and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_in_part.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Other information. If the value is ≤ 0 then the data represents no information has been Access granted in part Other; if the value is > 0 then the data represents information has been Access granted in part Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_in_part.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Total information. If the value is ≤ 0 then the data represents no information has been Access granted in part Total; if the value is > 0 then the data represents information has been Access granted in part Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_after_deferment",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Access granted after deferment; if the value is > 0 then the data represents information has been Access granted after deferment and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_after_deferment.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Other information. If the value is ≤ 0 then the data represents no information has been Access granted after deferment Other; if the value is > 0 then the data represents information has been Access granted after deferment Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_after_deferment.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Total information. If the value is ≤ 0 then the data represents no information has been Access granted after deferment Total; if the value is > 0 then the data represents information has been Access granted after deferment Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_in_another_form",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Access granted in another form; if the value is > 0 then the data represents information has been Access granted in another form and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_in_another_form.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Other information. If the value is ≤ 0 then the data represents no information has been Access granted in another form Other; if the value is > 0 then the data represents information has been Access granted in another form Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_granted_in_another_form.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Total information. If the value is ≤ 0 then the data represents no information has been Access granted in another form Total; if the value is > 0 then the data represents information has been Access granted in another form Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "charges_reduced",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Charges reduced; if the value is > 0 then the data represents information has been Charges reduced and the given data is the total value requested."
+    },
+    {
+      "column_name": "charges_reduced.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Other information. If the value is ≤ 0 then the data represents no information has been Charges reduced Other; if the value is > 0 then the data represents information has been Charges reduced Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "charges_reduced.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Total information. If the value is ≤ 0 then the data represents no information has been Charges reduced Total; if the value is > 0 then the data represents information has been Charges reduced Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "lesser_access",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Lesser access; if the value is > 0 then the data represents information has been Lesser access and the given data is the total value requested."
+    },
+    {
+      "column_name": "lesser_access.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Other information. If the value is ≤ 0 then the data represents no information has been Lesser access Other; if the value is > 0 then the data represents information has been Lesser access Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "lesser_access.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Total information. If the value is ≤ 0 then the data represents no information has been Lesser access Total; if the value is > 0 then the data represents information has been Lesser access Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "withdrawn_without_concession",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Withdrawn without concession; if the value is > 0 then the data represents information has been Withdrawn without concession and the given data is the total value requested."
+    },
+    {
+      "column_name": "withdrawn_without_concession.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Other information. If the value is ≤ 0 then the data represents no information has been Withdrawn without concession Other; if the value is > 0 then the data represents information has been Withdrawn without concession Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "withdrawn_without_concession.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Internal review for Total information. If the value is ≤ 0 then the data represents no information has been Withdrawn without concession Total; if the value is > 0 then the data represents information has been Withdrawn without concession Total and the given data is the total value requested."
+    }
+  ],
+  "Section 48 primary": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Section 48 primary."
+    },
+    {
+      "column_name": "section_48_requests_received",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 primary for Personal information. If the value is ≤ 0 then the data represents no information has been Section 48 requests received; if the value is > 0 then the data represents information has been Section 48 requests received and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_granted_-_altered",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 primary for Personal information. If the value is ≤ 0 then the data represents no information has been Requests granted - altered; if the value is > 0 then the data represents information has been Requests granted - altered and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_granted_-_notated",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 primary for Personal information. If the value is ≤ 0 then the data represents no information has been Requests granted - notated; if the value is > 0 then the data represents information has been Requests granted - notated and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_granted_-_altered_and_notated",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 primary for Personal information. If the value is ≤ 0 then the data represents no information has been Requests granted - altered and notated; if the value is > 0 then the data represents information has been Requests granted - altered and notated and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_requests_granted",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 primary for Personal information. If the value is ≤ 0 then the data represents no information has been Total requests granted; if the value is > 0 then the data represents information has been Total requests granted and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_refused",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 primary for Personal information. If the value is ≤ 0 then the data represents no information has been Requests refused; if the value is > 0 then the data represents information has been Requests refused and the given data is the total value requested."
+    }
+  ],
+  "Section 48 response time": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Section 48 response time."
+    },
+    {
+      "column_name": "section_48_requests_received",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 response time for Personal information. If the value is ≤ 0 then the data represents no information has been Section 48 requests received; if the value is > 0 then the data represents information has been Section 48 requests received and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_within_statutory_time_period",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 response time for Personal information. If the value is ≤ 0 then the data represents no information has been Response time within statutory time period; if the value is > 0 then the data represents information has been Response time within statutory time period and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_up_to_30_days_after_statutory_period",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 response time for Personal information. If the value is ≤ 0 then the data represents no information has been Response time up to 30 days after statutory period; if the value is > 0 then the data represents information has been Response time up to 30 days after statutory period and the given data is the total value requested."
+    },
+    {
+      "column_name": "response_time_over_30_days_after_statutory_period",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 response time for Personal information. If the value is ≤ 0 then the data represents no information has been Response time over 30 days after statutory period; if the value is > 0 then the data represents information has been Response time over 30 days after statutory period and the given data is the total value requested."
+    }
+  ],
+  "Section 48 internal review": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Section 48 internal review."
+    },
+    {
+      "column_name": "section_48_requests_received",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Section 48 requests received; if the value is > 0 then the data represents information has been Section 48 requests received and the given data is the total value requested."
+    },
+    {
+      "column_name": "internal_review_applications",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Internal review applications; if the value is > 0 then the data represents information has been Internal review applications and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_granted_-_altered",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Requests granted - altered; if the value is > 0 then the data represents information has been Requests granted - altered and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_granted_-_notated",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Requests granted - notated; if the value is > 0 then the data represents information has been Requests granted - notated and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_granted_-_altered_and_notated",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Requests granted - altered and notated; if the value is > 0 then the data represents information has been Requests granted - altered and notated and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_requests_granted",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Total requests granted; if the value is > 0 then the data represents information has been Total requests granted and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_refused",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Section 48 internal review for Personal information. If the value is ≤ 0 then the data represents no information has been Requests refused; if the value is > 0 then the data represents information has been Requests refused and the given data is the total value requested."
+    }
+  ],
+  "FOI Summary of salary & admin c": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to FOI Summary of salary & admin c."
+    },
+    {
+      "column_name": "requests_received",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI Summary of salary & admin c for Personal information. If the value is ≤ 0 then the data represents no information has been Requests received; if the value is > 0 then the data represents information has been Requests received and the given data is the total value requested."
+    },
+    {
+      "column_name": "staff_years",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI Summary of salary & admin c for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Staff years; if the value is > 0 then the data represents information has been Staff years and the given data is the total value requested."
+    },
+    {
+      "column_name": "salary_costs_plus_60percent_related_costs",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI Summary of salary & admin c for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Salary costs plus 60percent related costs; if the value is > 0 then the data represents information has been Salary costs plus 60percent related costs and the given data is the total value requested."
+    },
+    {
+      "column_name": "non-labour_costs_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI Summary of salary & admin c for Personal information. If the value is ≤ 0 then the data represents no information has been Non-labour costs ($); if the value is > 0 then the data represents information has been Non-labour costs ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "average_staff-days_per_request_received",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI Summary of salary & admin c for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Average staff-days per request received; if the value is > 0 then the data represents information has been Average staff-days per request received and the given data is the total value requested."
+    },
+    {
+      "column_name": "average_cost_per_request_received_($)",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI Summary of salary & admin c for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Average cost per request received ($); if the value is > 0 then the data represents information has been Average cost per request received ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_costs_($)",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI Summary of salary & admin c for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Total costs ($); if the value is > 0 then the data represents information has been Total costs ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "staff_-_75percent_to_100percent",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI Summary of salary & admin c for Personal information. If the value is ≤ 0 then the data represents no information has been Staff - 75percent to 100percent; if the value is > 0 then the data represents information has been Staff - 75percent to 100percent and the given data is the total value requested."
+    },
+    {
+      "column_name": "staff_–_less_than_75percent",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI Summary of salary & admin c for Personal information. If the value is ≤ 0 then the data represents no information has been Staff – less than 75percent; if the value is > 0 then the data represents information has been Staff – less than 75percent and the given data is the total value requested."
+    }
+  ],
+  "IPS Summary of salary & admin c": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to IPS Summary of salary & admin c."
+    },
+    {
+      "column_name": "staff_years",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS Summary of salary & admin c for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Staff years; if the value is > 0 then the data represents information has been Staff years and the given data is the total value requested."
+    },
+    {
+      "column_name": "salary_costs_plus_60percent_related_costs",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS Summary of salary & admin c for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Salary costs plus 60percent related costs; if the value is > 0 then the data represents information has been Salary costs plus 60percent related costs and the given data is the total value requested."
+    },
+    {
+      "column_name": "non-labour_costs_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS Summary of salary & admin c for Personal information. If the value is ≤ 0 then the data represents no information has been Non-labour costs ($); if the value is > 0 then the data represents information has been Non-labour costs ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_costs_($)",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS Summary of salary & admin c for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Total costs ($); if the value is > 0 then the data represents information has been Total costs ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "staff_-_75percent_to_100percent",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS Summary of salary & admin c for Personal information. If the value is ≤ 0 then the data represents no information has been Staff - 75percent to 100percent; if the value is > 0 then the data represents information has been Staff - 75percent to 100percent and the given data is the total value requested."
+    },
+    {
+      "column_name": "staff_–_less_than_75percent",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS Summary of salary & admin c for Personal information. If the value is ≤ 0 then the data represents no information has been Staff – less than 75percent; if the value is > 0 then the data represents information has been Staff – less than 75percent and the given data is the total value requested."
+    }
+  ],
+  "FOI non-labour costs": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to FOI non-labour costs."
+    },
+    {
+      "column_name": "general_administration_costs_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been General administration costs ($); if the value is > 0 then the data represents information has been General administration costs ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "general_legal_advice_costs_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been General legal advice costs ($); if the value is > 0 then the data represents information has been General legal advice costs ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "litigation_costs_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been Litigation costs ($); if the value is > 0 then the data represents information has been Litigation costs ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "foi_training_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been FOI training ($); if the value is > 0 then the data represents information has been FOI training ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "other_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been Other ($); if the value is > 0 then the data represents information has been Other ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to FOI non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been Total ($); if the value is > 0 then the data represents information has been Total ($) and the given data is the total value requested."
+    }
+  ],
+  "IPS non-labour costs": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to IPS non-labour costs."
+    },
+    {
+      "column_name": "general_administration_costs_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been General administration costs ($); if the value is > 0 then the data represents information has been General administration costs ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "general_legal_advice_costs_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been General legal advice costs ($); if the value is > 0 then the data represents information has been General legal advice costs ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "litigation_costs_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been Litigation costs ($); if the value is > 0 then the data represents information has been Litigation costs ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "ips_training_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been IPS training ($); if the value is > 0 then the data represents information has been IPS training ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "other_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been Other ($); if the value is > 0 then the data represents information has been Other ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to IPS non-labour costs for Personal information. If the value is ≤ 0 then the data represents no information has been Total ($); if the value is > 0 then the data represents information has been Total ($) and the given data is the total value requested."
+    }
+  ],
+  "Practical refusal": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Practical refusal."
+    },
+    {
+      "column_name": "notified_in_writing_of_intention_to_refuse_request",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Practical refusal for Personal information. If the value is ≤ 0 then the data represents no information has been Notified in writing of intention to refuse request; if the value is > 0 then the data represents information has been Notified in writing of intention to refuse request and the given data is the total value requested."
+    },
+    {
+      "column_name": "notified_in_writing_of_intention_to_refuse_request.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Practical refusal for Other information. If the value is ≤ 0 then the data represents no information has been Notified in writing of intention to refuse request Other; if the value is > 0 then the data represents information has been Notified in writing of intention to refuse request Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "notified_in_writing_of_intention_to_refuse_request.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Practical refusal for Total information. If the value is ≤ 0 then the data represents no information has been Notified in writing of intention to refuse request Total; if the value is > 0 then the data represents information has been Notified in writing of intention to refuse request Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "request_was_subsequently_processed",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Practical refusal for Personal information. If the value is ≤ 0 then the data represents no information has been Request was subsequently processed; if the value is > 0 then the data represents information has been Request was subsequently processed and the given data is the total value requested."
+    },
+    {
+      "column_name": "request_was_subsequently_processed.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Practical refusal for Other information. If the value is ≤ 0 then the data represents no information has been Request was subsequently processed Other; if the value is > 0 then the data represents information has been Request was subsequently processed Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "request_was_subsequently_processed.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Practical refusal for Total information. If the value is ≤ 0 then the data represents no information has been Request was subsequently processed Total; if the value is > 0 then the data represents information has been Request was subsequently processed Total and the given data is the total value requested."
+    }
+  ],
+  "Exemptions": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Exemptions."
+    },
+    {
+      "column_name": "not_claimed",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Not claimed; if the value is > 0 then the data represents information has been Not claimed and the given data is the total value requested."
+    },
+    {
+      "column_name": "not_claimed.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Not claimed Other; if the value is > 0 then the data represents information has been Not claimed Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "not_claimed.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Total information. If the value is ≤ 0 then the data represents no information has been Not claimed Total; if the value is > 0 then the data represents information has been Not claimed Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "national_security,_defence_or_international_relations_(s_33)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been National security, defence or international relations (s 33); if the value is > 0 then the data represents information has been National security, defence or international relations (s 33) and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_affecting_national_security,_defence_or_international_relations",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Documents affecting national security, defence or international relations; if the value is > 0 then the data represents information has been Documents affecting national security, defence or international relations and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_affecting_national_security,_defence_or_international_relations.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Documents affecting national security, defence or international relations Other; if the value is > 0 then the data represents information has been Documents affecting national security, defence or international relations Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "cabinet_documents_(s_34)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Cabinet documents (s 34); if the value is > 0 then the data represents information has been Cabinet documents (s 34) and the given data is the total value requested."
+    },
+    {
+      "column_name": "cabinet_documents",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Cabinet documents; if the value is > 0 then the data represents information has been Cabinet documents and the given data is the total value requested."
+    },
+    {
+      "column_name": "cabinet_documents.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Cabinet documents Other; if the value is > 0 then the data represents information has been Cabinet documents Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "enforcement_of_law_and_protection_of_public_safety_(s_37)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Enforcement of law and protection of public safety (s 37); if the value is > 0 then the data represents information has been Enforcement of law and protection of public safety (s 37) and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_affecting_enforcement_of_law_and_protection_of_public_safety",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Documents affecting enforcement of law and protection of public safety; if the value is > 0 then the data represents information has been Documents affecting enforcement of law and protection of public safety and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_affecting_enforcement_of_law_and_protection_of_public_safety.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Documents affecting enforcement of law and protection of public safety Other; if the value is > 0 then the data represents information has been Documents affecting enforcement of law and protection of public safety Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "secrecy_(s_38)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Secrecy (s 38); if the value is > 0 then the data represents information has been Secrecy (s 38) and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_to_which_secrecy_provisions_of_enactments_apply",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Documents to which secrecy provisions of enactments apply; if the value is > 0 then the data represents information has been Documents to which secrecy provisions of enactments apply and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_to_which_secrecy_provisions_of_enactments_apply.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Documents to which secrecy provisions of enactments apply Other; if the value is > 0 then the data represents information has been Documents to which secrecy provisions of enactments apply Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "legal_professional_privilege_(s_42)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Legal professional privilege (s 42); if the value is > 0 then the data represents information has been Legal professional privilege (s 42) and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_subject_to_legal_professional_privilege",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Documents subject to legal professional privilege; if the value is > 0 then the data represents information has been Documents subject to legal professional privilege and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_subject_to_legal_professional_privilege.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Documents subject to legal professional privilege Other; if the value is > 0 then the data represents information has been Documents subject to legal professional privilege Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "material_obtained_in_confidence_(s_45)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Material obtained in confidence (s 45); if the value is > 0 then the data represents information has been Material obtained in confidence (s 45) and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_containing_material_obtained_in_confidence",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Documents containing material obtained in confidence; if the value is > 0 then the data represents information has been Documents containing material obtained in confidence and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_containing_material_obtained_in_confidence.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Documents containing material obtained in confidence Other; if the value is > 0 then the data represents information has been Documents containing material obtained in confidence Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "parliamentary_budget_office_(s_45a)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Parliamentary Budget Office (s 45A); if the value is > 0 then the data represents information has been Parliamentary Budget Office (s 45A) and the given data is the total value requested."
+    },
+    {
+      "column_name": "parliamentary_budget_office_documents",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Parliamentary Budget Office documents; if the value is > 0 then the data represents information has been Parliamentary Budget Office documents and the given data is the total value requested."
+    },
+    {
+      "column_name": "parliamentary_budget_office_documents.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Parliamentary Budget Office documents Other; if the value is > 0 then the data represents information has been Parliamentary Budget Office documents Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "contempt_of_parliament/contempt_of_court_(s_46)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Contempt of Parliament/contempt of court (s 46); if the value is > 0 then the data represents information has been Contempt of Parliament/contempt of court (s 46) and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_disclosure_of_which_would_be_contempt_of_parliament_or_contempt_of_court",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Documents disclosure of which would be contempt of Parliament or contempt of court; if the value is > 0 then the data represents information has been Documents disclosure of which would be contempt of Parliament or contempt of court and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_disclosure_of_which_would_be_contempt_of_parliament_or_contempt_of_court.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Documents disclosure of which would be contempt of Parliament or contempt of court Other; if the value is > 0 then the data represents information has been Documents disclosure of which would be contempt of Parliament or contempt of court Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "trade_secrets/commercially_valuable_information_(s_47)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Trade secrets/commercially valuable information (s 47); if the value is > 0 then the data represents information has been Trade secrets/commercially valuable information (s 47) and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_disclosing_trade_secrets_or_commercially_valuable_information",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Documents disclosing trade secrets or commercially valuable information; if the value is > 0 then the data represents information has been Documents disclosing trade secrets or commercially valuable information and the given data is the total value requested."
+    },
+    {
+      "column_name": "documents_disclosing_trade_secrets_or_commercially_valuable_information.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Documents disclosing trade secrets or commercially valuable information Other; if the value is > 0 then the data represents information has been Documents disclosing trade secrets or commercially valuable information Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "electoral_rolls_and_related_documents_(s_47a)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Electoral rolls and related documents (s 47A); if the value is > 0 then the data represents information has been Electoral rolls and related documents (s 47A) and the given data is the total value requested."
+    },
+    {
+      "column_name": "electoral_rolls_and_related_documents",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Electoral rolls and related documents; if the value is > 0 then the data represents information has been Electoral rolls and related documents and the given data is the total value requested."
+    },
+    {
+      "column_name": "electoral_rolls_and_related_documents.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Electoral rolls and related documents Other; if the value is > 0 then the data represents information has been Electoral rolls and related documents Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "commonwealth-state_relations_(s_47b)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Commonwealth-State relations (s 47B); if the value is > 0 then the data represents information has been Commonwealth-State relations (s 47B) and the given data is the total value requested."
+    },
+    {
+      "column_name": "commonwealth-state_relation",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Commonwealth-State relation; if the value is > 0 then the data represents information has been Commonwealth-State relation and the given data is the total value requested."
+    },
+    {
+      "column_name": "commonwealth-state_relation.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Commonwealth-State relation Other; if the value is > 0 then the data represents information has been Commonwealth-State relation Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "deliberative_processes_(s_47c)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Deliberative processes (s 47C); if the value is > 0 then the data represents information has been Deliberative processes (s 47C) and the given data is the total value requested."
+    },
+    {
+      "column_name": "deliberative_processes",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Deliberative processes; if the value is > 0 then the data represents information has been Deliberative processes and the given data is the total value requested."
+    },
+    {
+      "column_name": "deliberative_processes.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Deliberative processes Other; if the value is > 0 then the data represents information has been Deliberative processes Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "financial_or_property_interests_of_the_commonwealth_(s_47d)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Financial or property interests of the Commonwealth (s 47D); if the value is > 0 then the data represents information has been Financial or property interests of the Commonwealth (s 47D) and the given data is the total value requested."
+    },
+    {
+      "column_name": "financial_or_property_interests_of_the_commonwealth",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Financial or property interests of the Commonwealth; if the value is > 0 then the data represents information has been Financial or property interests of the Commonwealth and the given data is the total value requested."
+    },
+    {
+      "column_name": "financial_or_property_interests_of_the_commonwealth.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Financial or property interests of the Commonwealth Other; if the value is > 0 then the data represents information has been Financial or property interests of the Commonwealth Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "certain_operations_of_agencies_(s_47e)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Certain operations of agencies (s 47E); if the value is > 0 then the data represents information has been Certain operations of agencies (s 47E) and the given data is the total value requested."
+    },
+    {
+      "column_name": "certain_operations_of_agencies",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Certain operations of agencies; if the value is > 0 then the data represents information has been Certain operations of agencies and the given data is the total value requested."
+    },
+    {
+      "column_name": "certain_operations_of_agencies.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Certain operations of agencies Other; if the value is > 0 then the data represents information has been Certain operations of agencies Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "personal_privacy_(s_47f)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Personal privacy (s 47F); if the value is > 0 then the data represents information has been Personal privacy (s 47F) and the given data is the total value requested."
+    },
+    {
+      "column_name": "personal_privacy",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Personal privacy; if the value is > 0 then the data represents information has been Personal privacy and the given data is the total value requested."
+    },
+    {
+      "column_name": "personal_privacy.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Personal privacy Other; if the value is > 0 then the data represents information has been Personal privacy Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "business_(s_47g)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Business (s 47G); if the value is > 0 then the data represents information has been Business (s 47G) and the given data is the total value requested."
+    },
+    {
+      "column_name": "business",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Business; if the value is > 0 then the data represents information has been Business and the given data is the total value requested."
+    },
+    {
+      "column_name": "business.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Business Other; if the value is > 0 then the data represents information has been Business Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "research_(s_47h)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Research (s 47H); if the value is > 0 then the data represents information has been Research (s 47H) and the given data is the total value requested."
+    },
+    {
+      "column_name": "research",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been Research; if the value is > 0 then the data represents information has been Research and the given data is the total value requested."
+    },
+    {
+      "column_name": "research.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been Research Other; if the value is > 0 then the data represents information has been Research Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "the_economy_(s_47j)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been The economy (s 47J); if the value is > 0 then the data represents information has been The economy (s 47J) and the given data is the total value requested."
+    },
+    {
+      "column_name": "the_economy",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Personal information. If the value is ≤ 0 then the data represents no information has been The economy; if the value is > 0 then the data represents information has been The economy and the given data is the total value requested."
+    },
+    {
+      "column_name": "the_economy.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Exemptions for Other information. If the value is ≤ 0 then the data represents no information has been The economy Other; if the value is > 0 then the data represents information has been The economy Other and the given data is the total value requested."
+    }
+  ],
+  "Staff years and costs by level": [
+    {
+      "column_name": "unnamed:_0",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Staff years and costs by level."
+    },
+    {
+      "column_name": "staff_hours_-_foi",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Staff years and costs by level for Personal information. If the value is ≤ 0 then the data represents no information has been Staff Hours - FOI; if the value is > 0 then the data represents information has been Staff Hours - FOI and the given data is the total value requested."
+    },
+    {
+      "column_name": "staff_years_-_foi",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Staff years and costs by level for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Staff years - FOI; if the value is > 0 then the data represents information has been Staff years - FOI and the given data is the total value requested."
+    },
+    {
+      "column_name": "staff_costs_-_foi",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Staff years and costs by level for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Staff costs - FOI; if the value is > 0 then the data represents information has been Staff costs - FOI and the given data is the total value requested."
+    },
+    {
+      "column_name": "staff_hours_-_ips",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Staff years and costs by level for Personal information. If the value is ≤ 0 then the data represents no information has been Staff Hours - IPS; if the value is > 0 then the data represents information has been Staff Hours - IPS and the given data is the total value requested."
+    },
+    {
+      "column_name": "staff_years_-_ips",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Staff years and costs by level for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Staff years - IPS; if the value is > 0 then the data represents information has been Staff years - IPS and the given data is the total value requested."
+    },
+    {
+      "column_name": "staff_costs_-_ips",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Staff years and costs by level for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Staff costs - IPS; if the value is > 0 then the data represents information has been Staff costs - IPS and the given data is the total value requested."
+    }
+  ],
+  "Agency comments": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Agency comments."
+    },
+    {
+      "column_name": "5._comparison_with_previous_year",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Agency comments."
+    },
+    {
+      "column_name": "6._other_comments_on_operation_of_foi_act",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Agency comments."
+    },
+    {
+      "column_name": "4e._other_admin_cost_detail",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Agency comments."
+    }
+  ],
+  "Requests top 20": [
+    {
+      "column_name": "request_received_–_top_20_agencies",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Requests top 20."
+    },
+    {
+      "column_name": "request_received_–_top_20_agencies.1",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Requests top 20 for Other information. If the value is ≤ 0 then the data represents no information has been Request received – top 20 agencies Other; if the value is > 0 then the data represents information has been Request received – top 20 agencies Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "request_received_–_top_20_agencies.2",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Requests top 20 for Total information. If the value is ≤ 0 then the data represents no information has been Request received – top 20 agencies Total; if the value is > 0 then the data represents information has been Request received – top 20 agencies Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "request_received_–_top_20_agencies.3",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Requests top 20 for percentage information. If the value is ≤ 0 then the data represents no information has been Request received – top 20 agencies percentage; if the value is > 0 then the data represents information has been Request received – top 20 agencies percentage and the given data is the total value requested."
+    },
+    {
+      "column_name": "request_received_–_top_20_agencies.4",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Requests top 20 for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been Request received – top 20 agencies.4; if the value is > 0 then the data represents information has been Request received – top 20 agencies.4 and the given data is the total value requested."
+    }
+  ],
+  "Determined top 20": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Determined top 20."
+    },
+    {
+      "column_name": "granted_in_full",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Determined top 20 for Personal information. If the value is ≤ 0 then the data represents no information has been Granted in Full; if the value is > 0 then the data represents information has been Granted in Full and the given data is the total value requested."
+    },
+    {
+      "column_name": "percent",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Determined top 20 for Personal information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been percent; if the value is > 0 then the data represents information has been percent and the given data is the total value requested."
+    },
+    {
+      "column_name": "granted_in_part",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Determined top 20 for Personal information. If the value is ≤ 0 then the data represents no information has been Granted in Part; if the value is > 0 then the data represents information has been Granted in Part and the given data is the total value requested."
+    },
+    {
+      "column_name": "percent.1",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Determined top 20 for Other information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been percent Other; if the value is > 0 then the data represents information has been percent Other and the given data is the total value requested."
+    },
+    {
+      "column_name": "access_refused",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Determined top 20 for Personal information. If the value is ≤ 0 then the data represents no information has been Access refused; if the value is > 0 then the data represents information has been Access refused and the given data is the total value requested."
+    },
+    {
+      "column_name": "percent.2",
+      "data_types": "float64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Determined top 20 for Total information, and values represent a percentage. If the value is ≤ 0 then the data represents no information has been percent Total; if the value is > 0 then the data represents information has been percent Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "total",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Determined top 20 for Personal information. If the value is ≤ 0 then the data represents no information has been Total; if the value is > 0 then the data represents information has been Total and the given data is the total value requested."
+    }
+  ],
+  "Charges top 20": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Charges top 20."
+    },
+    {
+      "column_name": "requests_received",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges top 20 for Personal information. If the value is ≤ 0 then the data represents no information has been Requests Received; if the value is > 0 then the data represents information has been Requests Received and the given data is the total value requested."
+    },
+    {
+      "column_name": "requests_where_charges_notified",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges top 20 for Personal information. If the value is ≤ 0 then the data represents no information has been Requests where charges notified; if the value is > 0 then the data represents information has been Requests where charges notified and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_charges_notified_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges top 20 for Personal information. If the value is ≤ 0 then the data represents no information has been Total charges notified ($); if the value is > 0 then the data represents information has been Total charges notified ($) and the given data is the total value requested."
+    },
+    {
+      "column_name": "total_charges_collected_($)",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Charges top 20 for Personal information. If the value is ≤ 0 then the data represents no information has been Total charges collected ($); if the value is > 0 then the data represents information has been Total charges collected ($) and the given data is the total value requested."
+    }
+  ],
+  "Disclosure Log": [
+    {
+      "column_name": "agency",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Disclosure Log."
+    },
+    {
+      "column_name": "direct_link",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Disclosure Log for Personal information. If the value is ≤ 0 then the data represents no information has been Direct link; if the value is > 0 then the data represents information has been Direct link and the given data is the total value requested."
+    },
+    {
+      "column_name": "different_website",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Disclosure Log for Personal information. If the value is ≤ 0 then the data represents no information has been Different website; if the value is > 0 then the data represents information has been Different website and the given data is the total value requested."
+    },
+    {
+      "column_name": "other_means",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Disclosure Log for Personal information. If the value is ≤ 0 then the data represents no information has been Other means; if the value is > 0 then the data represents information has been Other means and the given data is the total value requested."
+    },
+    {
+      "column_name": "total",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Disclosure Log for Personal information. If the value is ≤ 0 then the data represents no information has been Total; if the value is > 0 then the data represents information has been Total and the given data is the total value requested."
+    },
+    {
+      "column_name": "unique_visitors",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Disclosure Log for Personal information. If the value is ≤ 0 then the data represents no information has been Unique visitors; if the value is > 0 then the data represents information has been Unique visitors and the given data is the total value requested."
+    },
+    {
+      "column_name": "page_views",
+      "data_types": "int64",
+      "value_description": "This column contains FOI data from 2019–2020 related to Disclosure Log for Personal information. If the value is ≤ 0 then the data represents no information has been Page views; if the value is > 0 then the data represents information has been Page views and the given data is the total value requested."
+    },
+    {
+      "column_name": "webstats_collected",
+      "data_types": "object",
+      "value_description": "This column contains strings such as descriptions, agency names, or URLs related to Disclosure Log."
+    }
+  ]
+}

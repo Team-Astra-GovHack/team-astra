@@ -1,0 +1,2196 @@
+{
+    "agency_foi_data_2019_20_excel_action_on_.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "granted_in_full",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_full1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_full2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_full3",
+            "data_type": "string"
+        },
+        {
+            "column_name": "granted_in_part",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_part1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_part2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_part3",
+            "data_type": "string"
+        },
+        {
+            "column_name": "access_refused",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_refused1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_refused2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_refused3",
+            "data_type": "string"
+        },
+        {
+            "column_name": "transferred",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "transferred1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "transferred2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_determined",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_determined1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_determined2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_agency_com.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "5_comparison_with_previous_year",
+            "data_type": "string"
+        },
+        {
+            "column_name": "6_other_comments_on_operation_of_foi_act",
+            "data_type": "string"
+        },
+        {
+            "column_name": "4e_other_admin_cost_detail",
+            "data_type": "string"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_charges_cl.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_received1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_received2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_where_charges_notified",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_where_charges_notified1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_where_charges_notified2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_notified",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_notified_1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_notified_2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_collected",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_collected_1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_collected_2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_charges_to.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_where_charges_notified",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_notified",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_collected",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_action_on_reque.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "granted_in_full",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_full1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_full2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_full3",
+            "data_type": "string"
+        },
+        {
+            "column_name": "granted_in_part",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_part1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_part2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "granted_in_part3",
+            "data_type": "string"
+        },
+        {
+            "column_name": "access_refused",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_refused1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_refused2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_refused3",
+            "data_type": "string"
+        },
+        {
+            "column_name": "transferred",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "transferred1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "transferred2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_determined",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_determined1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_determined2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_agency_comments.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "5_comparison_with_previous_year",
+            "data_type": "string"
+        },
+        {
+            "column_name": "6_other_comments_on_operation_of_foi_act",
+            "data_type": "string"
+        },
+        {
+            "column_name": "4e_other_admin_cost_detail",
+            "data_type": "string"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_charges.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_received1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_received2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_where_charges_notified",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_where_charges_notified1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_where_charges_notified2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_notified",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_notified_1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_notified_2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_collected",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_collected_1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_collected_2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_charges_top_20.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_where_charges_notified",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_notified",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_charges_collected",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_determined_top_.csv": [
+        {
+            "column_name": "1",
+            "data_type": "float"
+        },
+        {
+            "column_name": "2",
+            "data_type": "float"
+        },
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "granted_in_full",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "unnamed_3",
+            "data_type": "float"
+        },
+        {
+            "column_name": "granted_in_part",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_refused",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_disclosure_log.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "direct_link",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "different_website",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "other_means",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "unique_visitors",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "page_views",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "webstats_collected",
+            "data_type": "string"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_foi_non_labour_.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "general_administration_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "general_legal_advice_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "litigation_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "foi_training",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "other",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_foi_summary_of_.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "staff_years",
+            "data_type": "float"
+        },
+        {
+            "column_name": "salary_costs_plus_60_related_costs",
+            "data_type": "float"
+        },
+        {
+            "column_name": "nonlabour_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "average_staffdays_per_request_received",
+            "data_type": "float"
+        },
+        {
+            "column_name": "average_cost_per_request_received",
+            "data_type": "float"
+        },
+        {
+            "column_name": "total_costs",
+            "data_type": "float"
+        },
+        {
+            "column_name": "staff_75_to_100",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "staff_less_than_75",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_index.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "tab",
+            "data_type": "string"
+        },
+        {
+            "column_name": "description",
+            "data_type": "string"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_internal_review.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "application",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "application1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "application2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "of_total_applications",
+            "data_type": "float"
+        },
+        {
+            "column_name": "decisions_affirmed",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "decisions_affirmed1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "decisions_affirmed2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_full",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_full1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_full2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_part",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_part1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_part2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_after_deferment",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_after_deferment1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_after_deferment2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_another_form",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_another_form1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_another_form2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "charges_reduced",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "charges_reduced1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "charges_reduced2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "lesser_access",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "lesser_access1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "lesser_access2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn_without_concession",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn_without_concession1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn_without_concession2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_ips_non_labour_.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "general_administration_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "general_legal_advice_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "litigation_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "ips_training",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "other",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_ips_summary_of_.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "staff_years",
+            "data_type": "float"
+        },
+        {
+            "column_name": "salary_costs_plus_60_related_costs",
+            "data_type": "float"
+        },
+        {
+            "column_name": "nonlabour_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_costs",
+            "data_type": "float"
+        },
+        {
+            "column_name": "staff_75_to_100",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "staff_less_than_75",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_practical_refus.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "notified_in_writing_of_intention_to_refuse_request",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "notified_in_writing_of_intention_to_refuse_request1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "notified_in_writing_of_intention_to_refuse_request2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_was_subsequently_processed",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_was_subsequently_processed1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_was_subsequently_processed2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_requests_top_20.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_received_top_20_agencies",
+            "data_type": "string"
+        },
+        {
+            "column_name": "request_received_top_20_agencies1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_received_top_20_agencies2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_received_top_20_agencies3",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_received_top_20_agencies4",
+            "data_type": "float"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_request_numbers.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "on_hand_1_july_2019",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "on_hand_1_july_20191",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "on_hand_1_july_20192",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_received_from_applicant",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_received_from_applicant1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_received_from_applicant2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_on_transfer",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_on_transfer1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_on_transfer2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_requests_received1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_requests_received2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "share_of_total_of_all_agencies_requests_received",
+            "data_type": "float"
+        },
+        {
+            "column_name": "share_of_total_of_all_agencies_requests_received1",
+            "data_type": "float"
+        },
+        {
+            "column_name": "share_of_total_of_all_agencies_requests_received2",
+            "data_type": "float"
+        },
+        {
+            "column_name": "requests_finalised",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_finalised1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_finalised2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "on_hand_30_june_2020",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "on_hand_30_june_20201",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "on_hand_30_june_20202",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_response_times.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "requests_determined",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_determined1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_determined2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_within_statutory_time_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_within_statutory_time_period1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_within_statutory_time_period2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_up_to_30_days_after_statutory_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_up_to_30_days_after_statutory_period1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_up_to_30_days_after_statutory_period2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_31_60_days_after_statutory_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_31_60_days_after_statutory_period1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_31_60_days_after_statutory_period2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_61_90_days_after_statutory_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_61_90_days_after_statutory_period1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_61_90_days_after_statutory_period2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_over_90_days_after_statutory_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_over_90_days_after_statutory_period1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_over_90_days_after_statutory_period2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_section_48_inte.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "section_48_requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "internal_review_applications",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_granted_altered",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_granted_notated",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_granted_altered_and_notated",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_requests_granted",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_refused",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_section_48_prim.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "section_48_requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_granted_altered",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_granted_notated",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_granted_altered_and_notated",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_requests_granted",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_refused",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_section_48_resp.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "section_48_requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_within_statutory_time_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_up_to_30_days_after_statutory_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_over_30_days_after_statutory_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_cleaned_20_staff_years_and.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "unnamed_0",
+            "data_type": "string"
+        },
+        {
+            "column_name": "staff_hours_foi",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "staff_years_foi",
+            "data_type": "float"
+        },
+        {
+            "column_name": "staff_costs_foi",
+            "data_type": "float"
+        },
+        {
+            "column_name": "staff_hours_ips",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "staff_years_ips",
+            "data_type": "float"
+        },
+        {
+            "column_name": "staff_costs_ips",
+            "data_type": "float"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_determined.csv": [
+        {
+            "column_name": "1",
+            "data_type": "float"
+        },
+        {
+            "column_name": "2",
+            "data_type": "float"
+        },
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "granted_in_full",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "unnamed_3",
+            "data_type": "float"
+        },
+        {
+            "column_name": "granted_in_part",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_refused",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_disclosure.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "direct_link",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "different_website",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "other_means",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "unique_visitors",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "page_views",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "webstats_collected",
+            "data_type": "string"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_foi_non_la.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "general_administration_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "general_legal_advice_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "litigation_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "foi_training",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "other",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_foi_summar.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "staff_years",
+            "data_type": "float"
+        },
+        {
+            "column_name": "salary_costs_plus_60_related_costs",
+            "data_type": "float"
+        },
+        {
+            "column_name": "nonlabour_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "average_staffdays_per_request_received",
+            "data_type": "float"
+        },
+        {
+            "column_name": "average_cost_per_request_received",
+            "data_type": "float"
+        },
+        {
+            "column_name": "total_costs",
+            "data_type": "float"
+        },
+        {
+            "column_name": "staff_75_to_100",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "staff_less_than_75",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_index_clea.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "tab",
+            "data_type": "string"
+        },
+        {
+            "column_name": "description",
+            "data_type": "string"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_internal_r.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "application",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "application1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "application2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "of_total_applications",
+            "data_type": "float"
+        },
+        {
+            "column_name": "decisions_affirmed",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "decisions_affirmed1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "decisions_affirmed2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_full",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_full1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_full2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_part",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_part1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_part2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_after_deferment",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_after_deferment1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_after_deferment2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_another_form",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_another_form1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "access_granted_in_another_form2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "charges_reduced",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "charges_reduced1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "charges_reduced2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "lesser_access",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "lesser_access1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "lesser_access2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn_without_concession",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn_without_concession1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "withdrawn_without_concession2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_ips_non_la.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "general_administration_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "general_legal_advice_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "litigation_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "ips_training",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "other",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_ips_summar.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "staff_years",
+            "data_type": "float"
+        },
+        {
+            "column_name": "salary_costs_plus_60_related_costs",
+            "data_type": "float"
+        },
+        {
+            "column_name": "nonlabour_costs",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_costs",
+            "data_type": "float"
+        },
+        {
+            "column_name": "staff_75_to_100",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "staff_less_than_75",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_practical_.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "notified_in_writing_of_intention_to_refuse_request",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "notified_in_writing_of_intention_to_refuse_request1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "notified_in_writing_of_intention_to_refuse_request2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_was_subsequently_processed",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_was_subsequently_processed1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_was_subsequently_processed2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_requests_t.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_received_top_20_agencies",
+            "data_type": "string"
+        },
+        {
+            "column_name": "request_received_top_20_agencies1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_received_top_20_agencies2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_received_top_20_agencies3",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "request_received_top_20_agencies4",
+            "data_type": "float"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_request_nu.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "on_hand_1_july_2019",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "on_hand_1_july_20191",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "on_hand_1_july_20192",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_received_from_applicant",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_received_from_applicant1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_received_from_applicant2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_on_transfer",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_on_transfer1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_on_transfer2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_requests_received1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_requests_received2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "share_of_total_of_all_agencies_requests_received",
+            "data_type": "float"
+        },
+        {
+            "column_name": "share_of_total_of_all_agencies_requests_received1",
+            "data_type": "float"
+        },
+        {
+            "column_name": "share_of_total_of_all_agencies_requests_received2",
+            "data_type": "float"
+        },
+        {
+            "column_name": "requests_finalised",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_finalised1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_finalised2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "on_hand_30_june_2020",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "on_hand_30_june_20201",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "on_hand_30_june_20202",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_response_t.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "requests_determined",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_determined1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_determined2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_within_statutory_time_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_within_statutory_time_period1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_within_statutory_time_period2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_up_to_30_days_after_statutory_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_up_to_30_days_after_statutory_period1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_up_to_30_days_after_statutory_period2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_31_60_days_after_statutory_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_31_60_days_after_statutory_period1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_31_60_days_after_statutory_period2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_61_90_days_after_statutory_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_61_90_days_after_statutory_period1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_61_90_days_after_statutory_period2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_over_90_days_after_statutory_period",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_over_90_days_after_statutory_period1",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "response_time_over_90_days_after_statutory_period2",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_section_48.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "agency",
+            "data_type": "string"
+        },
+        {
+            "column_name": "section_48_requests_received",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "internal_review_applications",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_granted_altered",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_granted_notated",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_granted_altered_and_notated",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "total_requests_granted",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "requests_refused",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "agency_foi_data_2019_20_excel_staff_year.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "unnamed_0",
+            "data_type": "string"
+        },
+        {
+            "column_name": "staff_hours_foi",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "staff_years_foi",
+            "data_type": "float"
+        },
+        {
+            "column_name": "staff_costs_foi",
+            "data_type": "float"
+        },
+        {
+            "column_name": "staff_hours_ips",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "staff_years_ips",
+            "data_type": "float"
+        },
+        {
+            "column_name": "staff_costs_ips",
+            "data_type": "float"
+        },
+        {
+            "column_name": "data_source",
+            "data_type": "string"
+        },
+        {
+            "column_name": "last_updated",
+            "data_type": "string"
+        }
+    ],
+    "cleaned_employees.csv": [
+        {
+            "column_name": "id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "empid",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "empname",
+            "data_type": "string"
+        },
+        {
+            "column_name": "engdt",
+            "data_type": "string"
+        },
+        {
+            "column_name": "termdt",
+            "data_type": "string"
+        },
+        {
+            "column_name": "depid",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "genderid",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "raceid",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "mgrid",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "dob",
+            "data_type": "string"
+        },
+        {
+            "column_name": "payrate",
+            "data_type": "float"
+        },
+        {
+            "column_name": "level",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "rating",
+            "data_type": "float"
+        },
+        {
+            "column_name": "perfdate",
+            "data_type": "string"
+        },
+        {
+            "column_name": "actionid",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "effectivedt",
+            "data_type": "string"
+        }
+    ],
+    "people_data.csv": [
+        {
+            "column_name": "name",
+            "data_type": "string"
+        },
+        {
+            "column_name": "age",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "city",
+            "data_type": "string"
+        }
+    ],
+    "products.csv": [
+        {
+            "column_name": "product_id",
+            "data_type": "integer"
+        },
+        {
+            "column_name": "price",
+            "data_type": "float"
+        },
+        {
+            "column_name": "in_stock",
+            "data_type": "boolean"
+        }
+    ]
+}
