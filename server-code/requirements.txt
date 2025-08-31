@@ -1,0 +1,10 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.8
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
+requests>=2.32
+pinecone-client>=5.0
+python-dotenv>=1.0
+orjson>=3.10
+tenacity>=9.0
