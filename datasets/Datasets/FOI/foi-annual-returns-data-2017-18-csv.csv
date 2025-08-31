@@ -1,0 +1,283 @@
+Report year,Agency name,Is agency active,Administrating Agency Name,Portfolio,Nil return,Date created,Last return by agency,Staff spending 75 per cent plus time on FOI,Staff spending more than 0 less than 75 per cent time on FOI,Estimated APS staff hours where normal duties include FOI,Estimated SES staff hours where normal duties include FOI,Estimated staff hours APS 6 and EL1 to 2 involved in FOI,Estimated staff hours APS 1 to 5 involved in FOI,Estimated staff hours ministers and advisers involved in FOI,Estimated staff hours other ministerial staff involved in FOI,Staff spending 75 per cent time plus on IPS,Staff spending more than 0 less than 75 per cent time on IPS,Estimated APS staff hours where normal duties include IPS,Estimated SES staff hours where normal duties include IPS,Estimated staff hours APS 6 and EL1 to 2 involved in IPS,Estimated staff hours APS 1 to 5 involved in IPS,Admin costs FOI AUD,Admin costs IPS AUD,Legal costs FOI AUD,Legal costs IPS AUD,Litigation costs FOI AUD,Litigation costs IPS AUD,Training costs FOI AUD,Training costs IPS AUD,Other costs FOI AUD,Other costs IPS AUS
+2017-2018,Aboriginal Benefit Account Advisory Committee,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,27/07/2018 15:02,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Aboriginal Hostels Limited,TRUE,,Prime Minister and Cabinet,FALSE,13/07/2018 12:40,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Administrative Appeals Tribunal,TRUE,,Attorney-General's,FALSE,10/07/2018 17:33,FALSE,3,119,5950,6,0,52,0,0,0,3,6,0,0,2,10694,0,0,0,0,0,755,0,0,0
+2017-2018,Admiralty Rules Committee,TRUE,Attorney-General's Department,Attorney-General's,TRUE,10/07/2018 16:42,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Advisory Committee on Biologicals,TRUE,Department of Health,Health,TRUE,14/06/2018 16:42,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Advisory Committee on Chemicals Scheduling ,TRUE,Department of Health,Health,TRUE,14/06/2018 16:42,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Advisory Committee on Complementary Medicines,TRUE,Department of Health,Health,TRUE,14/06/2018 16:41,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Advisory Committee on Medical Devices ,TRUE,Department of Health,Health,TRUE,14/06/2018 16:42,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Advisory Committee on Medicines Scheduling ,TRUE,Department of Health,Health,TRUE,14/06/2018 16:42,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Advisory Committee on Non-prescription Medicines ,TRUE,Department of Health,Health,TRUE,14/06/2018 16:43,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Advisory Committee on Prescription Medicines,TRUE,Department of Health,Health,TRUE,14/06/2018 16:43,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Advisory Committee on the Safety of Medical Devices,TRUE,Department of Health,Health,TRUE,14/06/2018 16:44,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Advisory Committee on the Safety of Medicines,TRUE,Department of Health,Health,TRUE,14/06/2018 16:44,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Aged Care Complaints Commissioner,TRUE,,Health,FALSE,10/07/2018 10:12,FALSE,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,AgriFutures,TRUE,,Agriculture and Water Resources,FALSE,27/07/2018 13:31,FALSE,0,3,15,6,4,5,0,0,0,3,5,0,0,0,0,0,88,0,0,0,706,0,0,0
+2017-2018,Airservices Australia,TRUE,,Infrastructure and Regional Development,FALSE,20/07/2018 11:14,FALSE,2,2,6,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Army and Air Force Canteen Service,TRUE,,Defence,FALSE,4/07/2018 8:24,FALSE,0,2,12,0,1,0,0,0,0,3,40,0,1,8,0,0,0,0,0,0,0,0,0,0
+2017-2018,Asbestos Safety and Eradication Agency,TRUE,,Employment,FALSE,4/05/2018 14:48,FALSE,0,1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Minister for Agriculture and Water Resources,TRUE,Department of Agriculture and Water Resources,Agriculture and Water Resources,TRUE,11/07/2018 10:53,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Minister for Children and Families,TRUE,Department of Social Services,Social Services,TRUE,5/07/2018 14:26,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Minister for Cities and Digital Transformation,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,27/07/2018 15:03,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Minister for Health,FALSE,Department of Health,Health,TRUE,31/07/2018 14:36,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Minister for Home Affairs,TRUE,Department of Home Affairs,Home Affairs,FALSE,31/07/2018 12:33,FALSE,0,2,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,"Assistant Minister for Industry, Innovation and Science",TRUE,"Department of Industry, Innovation and Science","Industry, Innovation and Science",TRUE,5/07/2018 16:08,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Minister for Social Services and Disability Services,TRUE,Department of Social Services,Social Services,TRUE,9/07/2018 13:18,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Minister for Social Services and Multicultural Affairs,FALSE,Department of Social Services,Social Services,TRUE,18/01/2018 15:10,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,"Assistant Minister for Trade, Tourism and Investment",TRUE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,TRUE,1/08/2018 8:58,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Minister for Treasury and Finance,TRUE,Department of the Treasury,Treasury,FALSE,24/07/2018 13:51,FALSE,0,3,0,0,0,0,40,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Minister for Vocational Education and Skills,TRUE,Department of Education and Training,Education and Training,TRUE,30/07/2018 12:16,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Minister to the Deputy Prime Minister,TRUE,"Department of Infrastructure, Regional Development and Cities",Infrastructure and Regional Development,FALSE,31/07/2018 16:46,FALSE,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Minister to the Prime Minister,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,27/07/2018 15:04,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Assistant Treasurer,TRUE,Department of the Treasury,Treasury,FALSE,24/07/2018 13:46,FALSE,0,3,0,0,0,0,20,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Attorney-General,TRUE,Attorney-General's Department,Attorney-General's,FALSE,10/07/2018 16:08,FALSE,0,20,0,0,0,0,180,306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Attorney-General's Department,TRUE,Attorney-General's Department,Attorney-General's,FALSE,10/07/2018 15:31,FALSE,5,316,6354,389,1167,778,0,0,0,0,0,0,5,8,2430,0,0,0,0,0,1630,0,0,0
+2017-2018,Auditing and Assurance Standards Board,TRUE,,Treasury,TRUE,6/07/2018 17:13,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australasian Procurement and Construction Council Inc,TRUE,Department of Finance,Finance,TRUE,18/07/2018 12:05,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australia Council for the Arts,TRUE,,Attorney-General's,FALSE,6/07/2018 12:25,FALSE,1,0,0,8,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Accounting Standards Board,TRUE,,Treasury,TRUE,6/07/2018 17:12,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Aged Care Quality Agency,TRUE,,Social Services,FALSE,6/07/2018 15:05,FALSE,0,2,0,90,0,500,0,0,0,1,0,10,0,0,0,0,1241,0,22214,0,0,0,0,0
+2017-2018,Australian Broadcasting Corporation,TRUE,,Communications and the Arts,FALSE,26/07/2018 16:32,FALSE,0,7,263,15,117,6,0,0,0,1,15,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Building and Construction Commission,TRUE,,Employment,FALSE,12/06/2018 11:56,FALSE,1,4,400,50,450,0,0,0,0,3,200,0,100,0,2000,0,115639,0,24699,0,0,0,0,0
+2017-2018,Australian Bureau of Statistics,TRUE,Australian Bureau of Statistics,Treasury,FALSE,31/07/2018 10:23,FALSE,2,139,2636,138,189,139,0,0,0,0,0,0,0,0,100,0,0,0,0,0,3312,0,0,0
+2017-2018,Australian Centre for International Agricultural Research,TRUE,,Foreign Affairs and Trade,FALSE,23/07/2018 13:16,FALSE,0,3,270,1,1,0,0,0,0,3,10,1,1,0,0,0,20000,0,0,0,0,0,0,0
+2017-2018,Australian Charities and Not-for-Profits Commission,TRUE,,Treasury,FALSE,30/07/2018 11:43,FALSE,0,4,122,0,10,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,920,0,0,0
+2017-2018,Australian Commission for Law Enforcement Integrity,TRUE,,Attorney-General's,FALSE,12/07/2018 11:28,FALSE,0,4,240,30,0,0,0,0,0,3,8,2,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Communications and Media Authority,TRUE,,Communications and the Arts,FALSE,11/07/2018 11:16,FALSE,0,29,120,51,920,0,0,0,0,2,10,2,11,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Community Pharmacy Authority,TRUE,Department of Health,Health,TRUE,14/06/2018 16:44,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Competition and Consumer Commission,TRUE,Australian Competition and Consumer Commission,Treasury,FALSE,11/07/2018 11:13,FALSE,2,22,3471,99,1119,64,0,0,0,0,0,0,0,0,2706,0,18508,0,0,0,585,0,0,0
+2017-2018,Australian Competition Tribunal,TRUE,,Treasury,FALSE,9/07/2018 10:41,FALSE,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Criminal Intelligence Commission,TRUE,,Home Affairs,FALSE,17/07/2018 13:58,FALSE,1,8,1800,100,120,5,5,5,0,0,0,0,0,0,0,0,1221,0,107002,0,0,0,0,0
+2017-2018,"Australian Curriculum, Assessment and Reporting Authority",TRUE,,Education and Training,FALSE,10/07/2018 12:38,FALSE,0,5,214,10,35,8,0,0,0,5,5,1,5,1,0,0,18796,0,0,0,0,0,0,0
+2017-2018,Australian Digital Health Agency,TRUE,,Health,FALSE,18/07/2018 10:19,FALSE,0,9,480,80,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7200,0,0,0
+2017-2018,Australian Electoral Commission,TRUE,,Finance,FALSE,18/07/2018 15:25,FALSE,0,3,1650,100,500,600,0,0,0,3,20,3,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Energy Regulator,TRUE,Australian Competition and Consumer Commission,Treasury,TRUE,19/07/2018 10:24,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Federal Police,TRUE,,Home Affairs,FALSE,19/07/2018 16:21,FALSE,6,660,11009,1320,5280,8140,0,0,0,22,154,6,55,165,0,0,36839,0,43449,0,9900,0,153827,0
+2017-2018,"Australian Film, Television and Radio School",TRUE,,Communications and the Arts,FALSE,26/07/2018 16:01,FALSE,0,19,54,0,3,6,0,0,0,0,7,0,3,0,250,40,3719,0,0,0,0,0,0,0
+2017-2018,Australian Financial Security Authority,TRUE,,Attorney-General's,FALSE,23/07/2018 16:11,FALSE,0,25,500,10,20,50,0,0,0,1,20,1,0,0,2000,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Fisheries Management Authority,TRUE,,Agriculture and Water Resources,FALSE,1/08/2018 14:51,FALSE,0,3,10,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,1200,0,0,0
+2017-2018,Australian Grape and Wine Authority ,TRUE,,Agriculture and Water Resources,TRUE,24/07/2018 9:55,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Hearing,TRUE,,Social Services,FALSE,19/07/2018 12:09,FALSE,0,1,2,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Heritage Council,TRUE,Department of the Environment and Energy,Environment,TRUE,22/06/2018 12:15,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Human Rights Commission,TRUE,,Attorney-General's,FALSE,26/03/2018 15:55,FALSE,0,5,199,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Institute of Aboriginal and Torres Strait Islander Studies,TRUE,,Education and Training,TRUE,30/07/2018 14:07,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Institute of Criminology,TRUE,,Attorney-General's,FALSE,17/07/2018 11:36,FALSE,0,2,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Institute of Family Studies,TRUE,,Social Services,FALSE,30/07/2018 9:37,FALSE,0,1,30,10,0,0,0,0,0,0,2,0,0,0,0,0,4600,0,0,0,1700,170,0,0
+2017-2018,Australian Institute of Health and Welfare,TRUE,,Health,FALSE,12/01/2018 15:32,FALSE,0,7,6,2,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Institute of Marine Science,TRUE,,"Industry, Innovation and Science",FALSE,31/07/2018 15:34,FALSE,0,6,32,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Law Reform Commission,TRUE,,Attorney-General's,FALSE,16/07/2018 14:55,FALSE,0,3,5,5,2,3,0,0,0,0,0,0,0,0,0,0,6900,0,0,0,0,0,50,0
+2017-2018,Australian Maritime Safety Authority,TRUE,,Infrastructure and Regional Development,FALSE,23/01/2018 15:37,FALSE,1,3,900,20,10,50,0,0,1,1,5,0,0,0,930,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Military Forces Relief Trust Fund,TRUE,Department of Defence,Defence,TRUE,3/07/2018 13:07,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian National Maritime Museum,TRUE,,Attorney-General's,FALSE,9/07/2018 15:47,FALSE,0,3,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian National University,TRUE,,Education and Training,FALSE,13/06/2018 14:20,FALSE,5,0,1051,3,967,73,0,0,1,0,15,0,0,0,0,0,25163,0,0,0,0,0,0,0
+2017-2018,Australian Nuclear Science and Technology Organisation,TRUE,,"Industry, Innovation and Science",FALSE,3/07/2018 16:04,FALSE,0,4,83,0,0,0,0,0,0,5,8,0,0,0,300,0,0,0,0,0,1500,0,0,0
+2017-2018,Australian Organ and Tissue Authority,TRUE,,Health,FALSE,4/07/2018 10:34,FALSE,0,2,35,5,0,0,0,0,0,1,7,1,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Pesticides and Veterinary Medicines Authority,TRUE,,Agriculture and Water Resources,FALSE,18/07/2018 15:20,FALSE,0,28,880,65,187,22,0,0,0,2,18,0,0,0,0,0,19606,0,0,0,0,0,0,0
+2017-2018,Australian Political Exchange Council,TRUE,Department of Finance,Finance,TRUE,24/07/2018 9:51,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Postal Corporation,TRUE,,Communications and the Arts,FALSE,2/07/2018 9:00,FALSE,1,1,1300,0,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Prudential Regulation Authority,TRUE,,Treasury,FALSE,29/05/2018 15:16,FALSE,3,37,438,31,22,1,0,0,0,5,60,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Public Service Commission,TRUE,Australian Public Service Commission,Prime Minister and Cabinet,FALSE,6/11/2017 9:51,FALSE,1,22,4042,421,1718,0,0,0,0,4,36,40,5,30,800,0,11557,0,0,0,600,0,0,0
+2017-2018,Australian Radiation Protection and Nuclear Safety Agency,TRUE,,Health,FALSE,11/07/2018 11:57,FALSE,0,7,100,1,30,20,0,0,0,1,10,0,0,0,1000,8000,0,0,0,0,0,0,0,0
+2017-2018,Australian Reinsurance Pool Corporation,TRUE,Department of the Treasury,Treasury,TRUE,24/07/2018 14:33,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Renewable Energy Agency,TRUE,Department of the Environment and Energy,Environment,FALSE,22/06/2018 13:52,FALSE,0,8,8,5,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Research Council,TRUE,,Education and Training,FALSE,30/07/2018 13:51,FALSE,1,1,28,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Securities and Investments Commission,TRUE,,Treasury,FALSE,31/07/2018 16:31,FALSE,1,71,2165,0,1915,0,0,0,1,2,70,0,0,0,0,0,5500,0,0,0,23103,0,0,0
+2017-2018,Australian Skills Quality Authority,TRUE,,"Industry, Innovation and Science",FALSE,30/10/2017 15:18,FALSE,0,5,457,1,107,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1500,0,0,0
+2017-2018,Australian Sports Anti-Doping Authority,TRUE,,Health,FALSE,31/07/2018 8:05,FALSE,1,6,3,45,2450,0,0,0,0,0,0,0,0,0,0,0,0,0,60000,0,0,0,0,0
+2017-2018,Australian Sports Commission,TRUE,,Health,FALSE,4/06/2018 14:40,FALSE,1,1,200,0,0,42,0,0,0,0,5,0,0,0,200,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Taxation Office,TRUE,,Treasury,FALSE,9/07/2018 9:22,FALSE,16,83,45267,1411,8732,265,0,0,0,1,8,0,2,0,7383,0,13689,0,48360,0,0,0,0,0
+2017-2018,Australian Trade and Investment Commission (Austrade),TRUE,,Foreign Affairs and Trade,FALSE,17/07/2018 10:39,FALSE,1,1,600,0,10,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+2017-2018,Australian Transaction Reports and Analysis Centre (AUSTRAC),TRUE,,Home Affairs,FALSE,24/07/2018 7:27,FALSE,4,9,6153,150,460,0,0,0,0,0,5,0,0,0,545,0,10134,0,0,0,1672,0,0,0
+2017-2018,Australian Transport Safety Bureau,TRUE,,Infrastructure and Regional Development,FALSE,7/06/2018 13:53,FALSE,1,7,2000,200,400,0,0,0,0,2,100,0,0,0,400,0,0,0,0,0,0,0,0,0
+2017-2018,Australian War Memorial,TRUE,,Defence,FALSE,27/07/2018 15:25,FALSE,0,1,1,1,15,0,0,0,0,0,1,1,15,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Bureau of Meteorology,TRUE,,Environment,FALSE,1/08/2018 14:03,FALSE,2,38,1647,130,220,40,0,0,0,0,20,4,2,0,100,0,41749,0,27735,0,1840,0,0,0
+2017-2018,Cancer Australia,TRUE,,Health,FALSE,27/07/2018 11:03,FALSE,0,5,40,10,0,30,0,0,0,0,0,0,0,0,0,0,33822,0,0,0,0,0,0,0
+2017-2018,Civil Aviation Safety Authority,TRUE,,Infrastructure and Regional Development,FALSE,29/06/2018 15:12,FALSE,1,2,2400,0,100,0,0,0,0,1,25,0,0,0,1000,0,0,0,0,0,0,0,0,0
+2017-2018,Classification Board,TRUE,Department of Communications and the Arts,Communications and the Arts,TRUE,19/07/2018 16:47,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Classification Review Board,TRUE,Department of Communications and the Arts,Communications and the Arts,TRUE,19/07/2018 16:49,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Clean Energy Finance Corporation,TRUE,,Environment,FALSE,10/07/2018 15:52,FALSE,0,10,7,3,0,0,0,0,0,8,6,2,0,0,355,0,0,0,0,0,1760,0,0,0
+2017-2018,Clean Energy Regulator,TRUE,,Environment,FALSE,27/06/2018 14:41,FALSE,0,30,193,51,154,9,0,0,0,10,35,5,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Climate Change Authority,TRUE,Department of the Environment and Energy,Environment,FALSE,22/06/2018 12:19,FALSE,0,0,0,0,0,0,0,0,0,2,0,2,0,6,0,0,0,0,0,0,0,0,0,0
+2017-2018,Coal Mining Industry (Long Service Leave Funding) Corporation,TRUE,Department of Jobs and Small Business,Employment,FALSE,17/07/2018 10:04,FALSE,0,5,8,0,2,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0
+2017-2018,Comcare,TRUE,Comcare,Employment,FALSE,18/07/2018 11:29,FALSE,3,12,5784,88,161,249,0,0,0,0,0,0,0,0,890,0,0,0,8126,0,0,0,0,0
+2017-2018,Commonwealth Environmental Water Holder,TRUE,Department of the Environment and Energy,Environment,FALSE,6/10/2017 12:58,FALSE,0,4,0,4,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Commonwealth Grants Commission,TRUE,,Treasury,FALSE,10/07/2018 9:52,FALSE,0,3,5,43,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Commonwealth Ombudsman,TRUE,,Prime Minister and Cabinet,FALSE,24/07/2018 14:02,FALSE,1,4,3135,0,0,0,0,0,0,1,2,0,0,0,278,0,0,0,9288,0,622,0,0,0
+2017-2018,Commonwealth Scientific and Industrial Research Organisation (CSIRO),TRUE,,"Industry, Innovation and Science",FALSE,9/07/2018 13:15,FALSE,2,0,1460,0,100,1040,0,0,0,2,5,0,0,20,250,0,20000,0,0,0,400,0,0,0
+2017-2018,Commonwealth Superannuation Corporation (previously ARIA),TRUE,,Finance,FALSE,19/07/2018 11:35,FALSE,0,2,261,0,0,0,0,0,0,1,1175,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Companies Auditors and Liquidators Disciplinary Board,TRUE,Department of the Treasury,Treasury,TRUE,24/07/2018 14:34,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Complaints Resolution Panel (Therapeutic good advertising),FALSE,Department of Health,Health,TRUE,14/06/2018 16:50,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Copyright Tribunal of Australia,TRUE,,Communications and the Arts,TRUE,30/07/2018 15:00,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Corporations and Markets Advisory Committee,FALSE,,Treasury,TRUE,1/08/2018 9:34,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Cotton Research and Development Corporation,TRUE,,Agriculture and Water Resources,FALSE,10/07/2018 11:15,FALSE,0,2,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Defence Families of Australia,TRUE,Department of Defence,Defence,TRUE,3/07/2018 13:10,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Defence Force Discipline Appeal Tribunal,TRUE,,Attorney-General's,FALSE,9/07/2018 10:44,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Defence Force Remuneration Tribunal,TRUE,Remuneration Tribunal,Prime Minister and Cabinet,TRUE,2/01/2018 12:50,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Defence Housing Australia,TRUE,,Defence,FALSE,18/07/2018 11:15,FALSE,0,3,1015,5,0,0,0,0,0,1,50,0,0,0,100,0,0,0,0,0,6990,0,0,0
+2017-2018,Defence Reserves Support Council,TRUE,Department of Defence,Defence,TRUE,3/07/2018 13:12,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Department of Agriculture and Water Resources,TRUE,Department of Agriculture and Water Resources,Agriculture and Water Resources,FALSE,11/07/2018 10:54,FALSE,3,0,5130,758,589,1327,0,0,0,0,270,0,0,0,122,0,0,0,0,0,0,0,0,0
+2017-2018,Department of Communications and the Arts,TRUE,Department of Communications and the Arts,Communications and the Arts,FALSE,25/07/2018 14:43,FALSE,1,37,1710,406,307,713,0,38,0,2,90,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Department of Defence,TRUE,Department of Defence,Defence,FALSE,10/07/2018 10:20,FALSE,20,126,38945,6900,22425,2925,20,0,0,0,0,0,0,0,18500,0,83447,0,0,0,113766,0,0,0
+2017-2018,Department of Education and Training,TRUE,Department of Education and Training,Education and Training,FALSE,17/07/2018 10:18,FALSE,8,6,19540,358,1116,0,0,0,0,1,26,0,0,0,2588,0,0,0,0,0,2760,0,0,0
+2017-2018,Department of Finance,TRUE,Department of Finance,Finance,FALSE,7/06/2018 16:29,FALSE,3,75,5640,735,1470,735,0,0,0,1,32,0,0,0,5500,0,0,0,0,0,0,0,0,0
+2017-2018,Department of Foreign Affairs and Trade,TRUE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,FALSE,31/07/2018 12:08,FALSE,6,2,11000,540,1080,540,50,0,1,0,50,0,0,0,5000,0,0,0,0,0,5000,0,0,0
+2017-2018,Department of Health,TRUE,Department of Health,Health,FALSE,6/10/2017 15:33,FALSE,12,7,24000,443,5373,98,0,0,1,0,0,0,0,0,7520,0,14000,0,12209,0,10120,0,5000,0
+2017-2018,Department of Home Affairs,TRUE,Department of Home Affairs,Home Affairs,FALSE,20/07/2018 14:38,FALSE,75,135,134820,18,639,98,0,0,0,79,163,0,0,0,113693,0,60434,0,55064,0,64908,0,140152,0
+2017-2018,Department of Human Services,TRUE,Department of Human Services,Social Services,FALSE,20/07/2018 8:08,FALSE,42,720,84900,1700,4150,41500,0,0,0,78,7800,0,80,0,18415,0,18018,0,0,0,2935,0,0,0
+2017-2018,"Department of Industry, Innovation and Science",TRUE,"Department of Industry, Innovation and Science","Industry, Innovation and Science",FALSE,5/07/2018 9:41,FALSE,2,5,5800,2600,1400,800,300,1200,0,1,200,0,0,200,0,0,0,0,0,0,0,0,0,0
+2017-2018,"Department of Infrastructure, Regional Development and Cities",TRUE,"Department of Infrastructure, Regional Development and Cities",Infrastructure and Regional Development,FALSE,12/02/2018 14:13,FALSE,2,50,1651,91,273,0,5,5,0,5,185,5,5,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Department of Jobs and Small Business,TRUE,Department of Jobs and Small Business,Employment,FALSE,15/01/2018 10:55,FALSE,12,3,13543,220,1215,291,0,0,0,1,1,0,0,0,6152,0,0,0,0,0,2760,0,0,0
+2017-2018,Department of Social Services,TRUE,Department of Social Services,Social Services,FALSE,13/02/2018 14:59,FALSE,2,1,5000,125,600,60,50,0,0,2,375,10,4,10,900,0,0,0,0,0,6000,0,0,0
+2017-2018,Department of the Environment and Energy,TRUE,Department of the Environment and Energy,Environment,FALSE,12/06/2018 11:06,FALSE,3,222,4680,940,1880,900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5500,0,0,0
+2017-2018,Department of the Prime Minister and Cabinet,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,FALSE,5/07/2018 11:00,FALSE,6,5,10473,1943,3885,1943,0,0,0,2,30,0,0,0,0,0,153780,0,0,0,0,0,0,0
+2017-2018,Department of the Treasury,TRUE,Department of the Treasury,Treasury,FALSE,24/07/2018 14:03,FALSE,3,170,1600,1935,3225,645,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Department of Veterans' Affairs,TRUE,Department of Veterans' Affairs,Defence,FALSE,27/07/2018 10:57,FALSE,8,10,19013,15,3261,3261,0,4,0,2,20,0,5,0,32610,0,18419,0,6278,0,0,0,0,0
+2017-2018,Deputy Prime Minister,TRUE,"Department of Infrastructure, Regional Development and Cities",Infrastructure and Regional Development,FALSE,31/07/2018 16:43,FALSE,0,5,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Director of National Parks,TRUE,Department of the Environment and Energy,Environment,FALSE,22/06/2018 14:36,FALSE,0,19,98,70,63,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Executive Director of Township Leasing,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,27/07/2018 15:01,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Export Finance and Insurance Corporation,TRUE,Export Finance and Insurance Corporation,Foreign Affairs and Trade,FALSE,19/07/2018 16:40,FALSE,0,7,0,1,30,100,0,0,0,1,0,0,0,2,0,0,6788,0,0,0,0,0,0,0
+2017-2018,Fair Work Commission,TRUE,,Employment,FALSE,4/07/2018 11:45,FALSE,1,3,2340,0,0,0,0,0,1,2,150,0,0,0,0,0,1163,0,0,0,0,0,0,0
+2017-2018,Fair Work Ombudsman,TRUE,,Employment,FALSE,7/06/2018 13:36,FALSE,3,2,5564,224,235,175,0,0,0,0,40,0,0,0,3320,0,1997,0,0,0,600,0,0,0
+2017-2018,Family Court of Australia,TRUE,,Attorney-General's,FALSE,20/07/2018 11:11,FALSE,0,2,0,5,10,0,0,0,0,2,0,10,20,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Family Law Council,TRUE,,Attorney-General's,TRUE,21/06/2018 14:58,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Federal Circuit Court of Australia,TRUE,,Attorney-General's,FALSE,2/07/2018 11:25,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Federal Court of Australia,TRUE,,Attorney-General's,FALSE,19/07/2018 16:22,FALSE,0,4,247,0,0,0,0,0,0,4,32,0,0,0,0,0,818,0,0,0,0,375,0,0
+2017-2018,Film Certification Advisory Board,TRUE,Department of Communications and the Arts,Communications and the Arts,TRUE,19/07/2018 16:49,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Financial Reporting Council,TRUE,Department of the Treasury,Treasury,TRUE,24/07/2018 14:36,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Fisheries Research and Development Corporation,TRUE,,Agriculture and Water Resources,FALSE,2/07/2018 16:46,FALSE,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,26658,0,0,0,0,0,0,0
+2017-2018,Food Standards Australia New Zealand,TRUE,,Health,FALSE,2/07/2018 14:56,FALSE,0,2,42,24,150,48,0,0,0,2,0,1,3,0,400,0,0,0,0,0,950,0,0,0
+2017-2018,Future Fund Management Agency,TRUE,,Finance,FALSE,23/07/2018 12:14,FALSE,0,9,136,0,9,11,0,0,0,6,11,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Gene Technology Ethics & Community Consultative Committee,TRUE,Department of Health,Health,TRUE,14/06/2018 16:44,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Gene Technology Ministerial Council,TRUE,Department of Health,Health,TRUE,14/06/2018 16:45,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Gene Technology Regulator,TRUE,Gene Technology Regulator,Health,FALSE,3/07/2018 14:53,FALSE,0,20,0,10,105,0,0,0,0,0,0,0,0,0,729,0,0,0,0,0,0,0,0,0
+2017-2018,Gene Technology Technical Advisory Committee,TRUE,Department of Health,Health,TRUE,14/06/2018 16:45,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Geoscience Australia,TRUE,"Department of Industry, Innovation and Science","Industry, Innovation and Science",FALSE,5/07/2018 15:41,FALSE,0,2,60,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Grains Research and Development Corporation,TRUE,,Agriculture and Water Resources,FALSE,3/08/2018 9:18,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Great Barrier Reef Marine Park Authority,TRUE,,Environment,FALSE,25/07/2018 11:07,FALSE,0,27,165,3,16,34,0,0,0,10,0,0,370,114,0,0,0,0,0,0,0,0,0,0
+2017-2018,Health and Hospitals Fund Advisory Board,TRUE,Department of Health,Health,TRUE,14/06/2018 16:45,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,High Court of Australia,TRUE,,Attorney-General's,FALSE,24/07/2018 15:50,FALSE,0,1,5,5,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Immigration Assessment Authority,TRUE,,Attorney-General's,FALSE,12/04/2018 14:41,FALSE,0,7,1035,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3496,0,0,0
+2017-2018,Independent Hospital Pricing Authority,TRUE,,Health,FALSE,4/07/2018 13:53,FALSE,0,1,10,0,0,0,0,0,0,1,15,0,0,0,500,0,0,0,0,0,0,0,0,0
+2017-2018,Independent Parliamentary Expenses Authority,TRUE,,Finance,FALSE,4/07/2018 11:20,FALSE,0,7,680,90,20,40,0,0,0,4,10,10,10,10,0,0,0,0,0,0,900,0,0,0
+2017-2018,Independent Review PBS Cost Recovery Committee,TRUE,Department of Health,Health,TRUE,14/06/2018 16:45,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Indigenous Business Australia,TRUE,,Prime Minister and Cabinet,FALSE,3/07/2018 16:02,FALSE,0,0,250,3,4,4,0,0,0,0,30,0,0,0,0,0,85000,0,0,0,0,0,0,0
+2017-2018,Indigenous Land Corporation,TRUE,,Prime Minister and Cabinet,FALSE,31/07/2018 10:47,FALSE,0,5,150,0,0,0,0,0,0,3,20,0,0,0,100,0,10000,0,0,0,0,0,0,0
+2017-2018,Infrastructure Australia,TRUE,,Infrastructure and Regional Development,FALSE,9/07/2018 13:58,FALSE,0,2,140,30,20,10,0,0,0,2,4,0,0,2,0,0,21987,0,0,0,0,0,0,0
+2017-2018,Inspector-General of Taxation,TRUE,,Treasury,FALSE,2/07/2018 9:15,FALSE,0,11,11,0,0,0,0,0,0,2,2,0,0,0,0,0,2226,0,0,0,0,0,0,0
+2017-2018,International Air Services Commission,TRUE,"Department of Infrastructure, Regional Development and Cities",Infrastructure and Regional Development,TRUE,31/07/2018 16:33,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,IP Australia,TRUE,IP Australia,"Industry, Innovation and Science",FALSE,5/07/2018 18:08,FALSE,2,8,3800,30,250,250,0,0,0,8,500,20,10,0,595,120,8000,0,0,0,1840,0,0,0
+2017-2018,Medical Training Review Panel,TRUE,Department of Health,Health,TRUE,14/06/2018 16:46,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Medicare Participation Review Committee,TRUE,Department of Health,Health,TRUE,14/06/2018 16:46,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Merit Protection Commissioner,TRUE,,Prime Minister and Cabinet,FALSE,2/07/2018 9:25,FALSE,0,4,163,0,0,0,0,0,0,1,20,0,0,0,0,0,8000,0,0,0,0,0,0,0
+2017-2018,Military Rehabilitation and Compensation Commission,TRUE,Department of Veterans' Affairs,Defence,TRUE,27/07/2018 10:50,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister Assisting the Prime Minister for Cabinet,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,27/07/2018 15:05,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister Assisting the Prime Minister for Counter-Terrorism,FALSE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,27/07/2018 14:56,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister Assisting the Prime Minister for Cyber Security,FALSE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,27/07/2018 14:57,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister Assisting the Prime Minister for the Centenary of ANZAC,TRUE,Department of Veterans' Affairs,Defence,TRUE,27/07/2018 10:48,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister Assisting the Prime Minister for the Public Service,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,FALSE,5/07/2018 11:01,FALSE,0,4,2,7,15,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Aged Care and Indigenous Health,TRUE,Department of Health,Health,TRUE,14/06/2018 16:49,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Agriculture and Water Resources,TRUE,Department of Agriculture and Water Resources,Agriculture and Water Resources,FALSE,24/10/2017 10:13,FALSE,0,2,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Citizenship and Multicultural Affairs,TRUE,Department of Home Affairs,Home Affairs,TRUE,31/07/2018 12:33,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Communications,TRUE,Minister for Communications,Communications and the Arts,FALSE,27/07/2018 15:24,FALSE,0,2,0,0,0,0,60,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Defence,TRUE,Department of Defence,Defence,FALSE,3/07/2018 13:09,FALSE,0,2,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Defence Industry,TRUE,Department of Defence,Defence,TRUE,3/07/2018 13:31,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Defence Personnel,TRUE,Department of Defence,Defence,FALSE,3/07/2018 13:29,FALSE,0,1,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Education and Training,TRUE,Department of Education and Training,Education and Training,FALSE,19/01/2018 14:32,FALSE,0,1,1,6,8,0,9,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Finance,TRUE,Department of Finance,Finance,FALSE,27/07/2018 11:33,FALSE,0,4,30,0,0,0,30,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Foreign Affairs,TRUE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,FALSE,6/07/2018 10:25,FALSE,0,1,750,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Health,TRUE,Department of Health,Health,FALSE,14/06/2018 16:50,FALSE,0,15,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Home Affairs and Immigration and Border Protection,TRUE,Department of Home Affairs,Home Affairs,FALSE,31/07/2018 12:40,FALSE,0,2,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Human Services,TRUE,Department of Human Services,Social Services,FALSE,30/07/2018 15:00,FALSE,0,4,0,14,14,0,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Indigenous Affairs,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,FALSE,5/07/2018 11:01,FALSE,0,4,0,0,0,0,17,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,"Minister for Industry, Innovation and Science",TRUE,"Department of Industry, Innovation and Science","Industry, Innovation and Science",TRUE,5/07/2018 15:41,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Infrastructure and Transport,TRUE,"Department of Infrastructure, Regional Development and Cities",Infrastructure and Regional Development,FALSE,31/07/2018 16:39,FALSE,0,5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for International Development and the Pacific,TRUE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,TRUE,1/08/2018 8:58,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Jobs and Innovation,TRUE,Department of Jobs and Small Business,Employment,FALSE,6/07/2018 14:34,FALSE,0,7,247,4,4,1,150,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Justice,FALSE,Attorney-General's Department,Attorney-General's,FALSE,26/07/2018 16:03,TRUE,0,9,0,0,0,0,20,120,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Law Enforcement and Cybersecurity,TRUE,Department of Home Affairs,Home Affairs,FALSE,31/07/2018 9:38,FALSE,0,2,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Local Government and Territories,FALSE,"Department of Infrastructure, Regional Development and Cities",Infrastructure and Regional Development,FALSE,31/07/2018 16:40,FALSE,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Regional Communications,TRUE,Department of Communications and the Arts,Communications and the Arts,TRUE,19/07/2018 16:51,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Regional Development,TRUE,"Department of Infrastructure, Regional Development and Cities",Infrastructure and Regional Development,FALSE,31/07/2018 16:35,FALSE,0,5,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Resources and Northern Australia,TRUE,"Department of Industry, Innovation and Science","Industry, Innovation and Science",TRUE,5/07/2018 16:07,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Rural Health and Sport,TRUE,Department of Health,Health,FALSE,14/06/2018 16:50,FALSE,0,9,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,"Minister for Small and Family Business, the Workplace and Deregulation",TRUE,Department of Jobs and Small Business,Employment,FALSE,18/06/2018 9:40,FALSE,0,3,8,0,8,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Small Business,FALSE,Department of Jobs and Small Business,Employment,TRUE,24/07/2018 14:36,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Social Services,TRUE,Department of Social Services,Social Services,FALSE,9/07/2018 11:18,FALSE,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for the Arts,TRUE,Minister for Communications,Communications and the Arts,TRUE,27/07/2018 15:21,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for the Environment and Energy,TRUE,Department of the Environment and Energy,Environment,FALSE,22/06/2018 17:23,FALSE,0,8,0,0,0,0,40,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,"Minister for Trade, Tourism and Investment",TRUE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,TRUE,6/07/2018 12:31,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Urban Infrastructure,TRUE,"Department of Infrastructure, Regional Development and Cities",Infrastructure and Regional Development,FALSE,31/07/2018 16:41,FALSE,5,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Veterans' Affairs,TRUE,Department of Veterans' Affairs,Defence,TRUE,27/07/2018 10:49,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Minister for Women,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,27/07/2018 15:04,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Murray-Darling Basin Authority,TRUE,,Agriculture and Water Resources,FALSE,4/07/2018 14:07,FALSE,2,5,270,49,613,474,0,0,0,5,518,0,0,0,383,0,36014,0,0,0,1748,0,0,0
+2017-2018,Museum of Australian Democracy,TRUE,,Communications and the Arts,FALSE,20/07/2018 12:53,FALSE,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,National Archives of Australia,TRUE,,Attorney-General's,FALSE,26/06/2018 13:55,FALSE,0,2,188,0,6,4,0,0,0,2,4,0,0,0,0,0,0,0,0,0,7360,0,0,0
+2017-2018,National Blood Authority,TRUE,,Health,FALSE,2/07/2018 12:11,FALSE,0,3,10,4,1,0,0,0,0,2,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,National Capital Authority,TRUE,,Infrastructure and Regional Development,FALSE,12/07/2018 11:54,FALSE,1,1,1000,100,0,0,0,0,0,0,0,0,0,0,2500,100,0,0,0,0,4000,0,0,0
+2017-2018,National Competition Council,TRUE,,Treasury,FALSE,11/07/2018 13:39,FALSE,0,9,0,3,6,0,0,0,0,0,0,0,0,0,9,0,2623,0,0,0,0,0,0,0
+2017-2018,National Disability Insurance Agency,TRUE,,Social Services,FALSE,14/06/2018 9:54,FALSE,11,7,20880,650,1344,4032,0,0,0,5,50,5,10,5,10000,0,15000,0,0,0,3000,0,0,0
+2017-2018,National Film and Sound Archive of Australia,TRUE,,Communications and the Arts,FALSE,2/07/2018 13:48,FALSE,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,3000,0,0,0,0,0,0,0
+2017-2018,National Gallery of Australia,TRUE,,Communications and the Arts,FALSE,5/07/2018 8:49,FALSE,0,1,9,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,National Health and Medical Research Council,TRUE,,Health,FALSE,12/07/2018 10:01,FALSE,0,38,60,13,140,91,0,0,0,6,66,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,National Industrial Chemicals Notification and Assessment Scheme,TRUE,,Health,TRUE,5/06/2018 9:47,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,National Library of Australia,TRUE,,Communications and the Arts,FALSE,2/07/2018 11:03,FALSE,0,3,50,0,0,0,0,0,0,3,5,0,0,0,0,0,8727,0,0,0,0,0,0,0
+2017-2018,National Mental Health Commission,TRUE,,Health,FALSE,1/08/2018 14:10,FALSE,0,2,5,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,National Museum of Australia,TRUE,,Communications and the Arts,FALSE,2/07/2018 17:14,FALSE,0,4,6,0,4,2,0,0,0,5,96,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,National Native Title Tribunal,TRUE,,Attorney-General's,FALSE,30/07/2018 17:33,FALSE,0,7,15,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3500,0,0,0
+2017-2018,National Offshore Petroleum Safety & Environmental Management Auth.,TRUE,,"Industry, Innovation and Science",FALSE,5/06/2018 10:14,FALSE,2,2,79,0,10,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,National Portrait Gallery of Australia,TRUE,,Communications and the Arts,TRUE,2/07/2018 15:51,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,National Transport Commission,TRUE,,Infrastructure and Regional Development,FALSE,4/07/2018 7:54,FALSE,0,2,10,0,8,12,0,0,0,2,10,0,6,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,NBN Co Limited (ACN 136 533 741),TRUE,,Communications and the Arts,FALSE,6/06/2018 16:48,FALSE,0,4,2400,354,0,15,0,0,0,1,20,20,0,20,0,0,0,0,0,0,0,0,0,0
+2017-2018,Norfolk Island Regional Council ,TRUE,,x Norfolk Island (external territory),FALSE,20/04/2018 11:00,FALSE,0,1,16,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Northern Australian Infrastructure Facility,TRUE,Northern Australian Infrastructure Facility,Foreign Affairs and Trade,FALSE,31/07/2018 11:20,FALSE,0,5,400,50,0,50,10,0,0,2,100,0,0,0,0,0,181493,0,0,0,0,0,0,0
+2017-2018,Office of Parliamentary Counsel,TRUE,,Attorney-General's,FALSE,30/07/2018 10:27,FALSE,0,3,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Office of the Australian Information Commissioner,TRUE,,Attorney-General's,FALSE,23/07/2018 17:32,FALSE,1,9,3915,115,175,25,0,0,0,1,50,0,0,0,1850,0,0,0,1721,0,0,0,0,0
+2017-2018,Office of the Commonwealth Director of Public Prosecutions,TRUE,,Attorney-General's,FALSE,2/07/2018 10:47,FALSE,0,20,0,7,339,66,0,0,0,3,0,0,16,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Office of the eSafety Commissioner,TRUE,,Communications and the Arts,FALSE,17/04/2018 10:29,FALSE,0,4,300,50,100,0,0,0,0,4,200,5,5,5,0,0,5000,0,0,0,0,0,0,0
+2017-2018,Office of the Independent National Security Legislation Monitor (INSLM),TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,5/07/2018 11:02,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Office of the Official Secretary to the Governor-General,TRUE,,Prime Minister and Cabinet,FALSE,20/04/2018 14:47,FALSE,0,3,3,2,0,0,0,0,0,2,2,2,0,0,0,0,5082,0,0,0,0,0,0,0
+2017-2018,Office of the Registrar of Indigenous Corporations,TRUE,,Prime Minister and Cabinet,FALSE,23/07/2018 15:37,FALSE,0,16,1570,66,159,21,0,0,0,3,3,1,2,0,1125,0,7600,0,0,0,650,0,0,0
+2017-2018,Parliamentary Retiring Allowances Trust,TRUE,Department of Finance,Finance,TRUE,18/07/2018 12:03,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Pathology Services Table Committee,TRUE,Department of Health,Health,TRUE,14/06/2018 16:46,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Pharmaceutical Benefits Advisory Committee,TRUE,Department of Health,Health,TRUE,14/06/2018 16:46,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Pharmaceutical Benefits Remuneration Tribunal,TRUE,Department of Health,Health,TRUE,14/06/2018 16:47,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Prime Minister,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,FALSE,5/07/2018 11:01,FALSE,0,6,1400,0,0,0,936,0,0,1,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Productivity Commission,TRUE,,Treasury,FALSE,25/07/2018 9:59,FALSE,0,2,36,6,4,0,0,0,0,2,2,0,0,0,0,0,7741,0,0,0,11800,0,0,0
+2017-2018,Professional Services Review,TRUE,,Health,FALSE,24/07/2018 10:36,FALSE,0,5,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2470,0,0,0
+2017-2018,Prostheses List Advisory Committee,TRUE,Department of Health,Health,TRUE,14/06/2018 16:47,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Public Lending Right Committee,TRUE,Department of Communications and the Arts,Communications and the Arts,TRUE,19/07/2018 16:50,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Registered Organisations Commission ,TRUE,Registered Organisations Commission ,Employment,FALSE,20/07/2018 19:14,FALSE,0,2,90,9,18,9,0,0,0,3,5,0,0,8,0,0,0,0,0,0,0,0,0,0
+2017-2018,Remuneration Tribunal,TRUE,Remuneration Tribunal,Prime Minister and Cabinet,FALSE,28/09/2017 12:33,FALSE,0,6,2,0,50,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Repatriation Commission,TRUE,Department of Veterans' Affairs,Defence,TRUE,27/07/2018 10:50,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Repatriation Medical Authority,TRUE,,Defence,FALSE,9/07/2018 16:50,FALSE,0,2,18,0,0,0,0,0,0,3,2,0,0,0,0,0,7200,0,0,0,0,0,0,0
+2017-2018,Reserve Bank of Australia,TRUE,,Treasury,FALSE,16/07/2018 16:52,FALSE,0,27,111,11,0,43,4,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Royal Australian Air Force Veterans' Residences Trust Fund,TRUE,,Defence,TRUE,2/07/2018 13:20,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Royal Australian Air Force Welfare Trust Fund,TRUE,,Defence,TRUE,2/07/2018 14:05,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Royal Australian Navy Central Canteens Board,TRUE,Department of Defence,Defence,TRUE,3/07/2018 13:27,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Royal Australian Navy Relief Trust Fund,TRUE,Department of Defence,Defence,TRUE,3/07/2018 13:13,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Safe Work Australia,TRUE,,Employment,FALSE,27/07/2018 10:47,FALSE,0,16,232,20,17,0,0,0,0,4,40,5,5,0,2000,0,10633,1521,0,0,0,0,0,0
+2017-2018,"Safety, Rehabilitation and Compensation Commission",TRUE,Comcare,Employment,TRUE,18/07/2018 11:14,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Screen Australia,TRUE,,Communications and the Arts,FALSE,25/07/2018 10:04,FALSE,0,5,61,36,15,2,0,0,0,1,5,0,0,0,0,0,3012,0,0,0,0,0,0,0
+2017-2018,"Seafarers Safety, Rehabilitation and Compensation (Seacare) Authority",TRUE,Comcare,Employment,TRUE,18/07/2018 11:17,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Second Review Dental Benefits Act 2008 Committee,TRUE,Department of Health,Health,TRUE,14/06/2018 16:48,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Secretaries' ICT Governance Board,TRUE,Department of Finance,Finance,TRUE,18/07/2018 12:05,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Solicitor-General,TRUE,Attorney-General's Department,Attorney-General's,TRUE,10/07/2018 16:09,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Special Broadcasting Service Corporation,TRUE,,Communications and the Arts,FALSE,30/07/2018 15:02,FALSE,0,1,20,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Special Minister of State,TRUE,Department of Finance,Finance,FALSE,18/07/2018 12:03,FALSE,0,2,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Specialist Medical Review Council,TRUE,,Defence,TRUE,4/07/2018 12:48,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Superannuation Complaints Tribunal,TRUE,,Treasury,FALSE,18/07/2018 16:54,FALSE,0,3,20,0,0,0,0,0,0,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Sydney Harbour Federation Trust,TRUE,,Environment,FALSE,9/07/2018 13:16,FALSE,0,8,40,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Takeovers Panel,TRUE,Department of the Treasury,Treasury,TRUE,24/07/2018 14:42,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Tax Practitioners Board,TRUE,,Treasury,FALSE,12/06/2018 10:23,FALSE,0,3,300,0,17,0,0,0,0,1,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Tertiary Education Quality and Standards Agency,TRUE,,Education and Training,FALSE,31/07/2018 9:14,FALSE,0,13,71,0,20,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Therapeutic Goods Advertising Code Council,FALSE,Department of Health,Health,TRUE,14/06/2018 16:50,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Therapeutic Goods Committee,TRUE,Department of Health,Health,TRUE,14/06/2018 16:49,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Torres Strait Regional Authority,TRUE,,Prime Minister and Cabinet,FALSE,27/07/2018 16:53,FALSE,0,1,1,1,0,0,0,0,0,0,0,0,0,0,5000,0,10000,0,0,0,0,0,0,0
+2017-2018,Tourism Australia,TRUE,,Foreign Affairs and Trade,FALSE,1/08/2018 14:39,FALSE,0,2,3,0,0,0,0,0,0,1,5,0,0,0,0,0,2000,0,0,0,0,0,0,0
+2017-2018,Trans-Tasman IP Attorneys Board,TRUE,IP Australia,"Industry, Innovation and Science",TRUE,5/07/2018 17:34,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Trans-Tasman IP Attorneys Disciplinary Tribunal ,TRUE,IP Australia,"Industry, Innovation and Science",TRUE,5/07/2018 17:34,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Treasurer,TRUE,Department of the Treasury,Treasury,FALSE,24/07/2018 13:36,FALSE,0,5,0,0,0,0,60,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Veterans' Review Board,TRUE,,Defence,FALSE,26/07/2018 10:51,FALSE,0,1,11,0,1,0,0,0,0,1,9,0,1,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Workplace Gender Equality Agency,TRUE,,Employment,TRUE,20/07/2018 10:28,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-2018,Wreck Bay Aboriginal Community Council ,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,27/07/2018 15:02,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

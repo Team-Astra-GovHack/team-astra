@@ -1,0 +1,346 @@
+Report year,Agency name,Is agency active,Administrating Agency Name,Portfolio,Nil return,Date created,Last return by agency,Staff spending 75 per cent plus time on FOI,Staff spending more than 0 less than 75 per cent time on FOI,Estimated APS staff hours where normal duties include FOI,Estimated SES staff hours where normal duties include FOI,Estimated staff hours APS 6 and EL1 to 2 involved in FOI,Estimated staff hours APS 1 to 5 involved in FOI,Estimated staff hours ministers and advisers involved in FOI,Estimated staff hours other ministerial staff involved in FOI,Staff spending 75 per cent time plus on IPS,Staff spending more than 0 less than 75 per cent time on IPS,Estimated APS staff hours where normal duties include IPS,Estimated SES staff hours where normal duties include IPS,Estimated staff hours APS 6 and EL1 to 2 involved in IPS,Estimated staff hours APS 1 to 5 involved in IPS,Admin costs FOI AUD,Admin costs IPS AUD,Legal costs FOI AUD,Legal costs IPS AUD,Litigation costs FOI AUD,Litigation costs IPS AUD,Training costs FOI AUD,Training costs IPS AUD,Other costs FOI AUD,Other costs IPS AUD
+2013-2014,Australian Fisheries Management Authority,TRUE,No data,Agriculture,FALSE,8/07/2014 11:03,FALSE,0,14,52,2,24,0,0,0,0,3,2,0,0,0,70,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Pesticides and Veterinary Medicines Authority,TRUE,No data,Agriculture,FALSE,30/07/2014 23:34,FALSE,2,4,3838,3,8,0,0,0,0,1,0,0,10,8,0,0,0,0,0,0,0,0,0,0
+2013-2014,Cotton Research and Development Corporation,TRUE,No data,Agriculture,FALSE,1/10/2013 15:22,FALSE,0,1,40,0,0,0,0,0,0,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0
+2013-2014,Department of Agriculture,TRUE,Department of Agriculture,Agriculture,FALSE,8/07/2014 14:00,FALSE,3,3,6006,68,567,92,16,7,0,3,147,0,0,0,23388,0,9000,0,5584,0,890,0,0,0
+2013-2014,Fisheries Research and Development Corporation,TRUE,No data,Agriculture,FALSE,30/07/2014 23:53,FALSE,0,1,0,0,5,0,0,0,0,0,0,0,0,0,2424,0,0,0,0,0,0,0,0,0
+2013-2014,Grains Research and Development Corporation,TRUE,No data,Agriculture,FALSE,22/07/2014 11:35,FALSE,0,8,78,16,43,0,0,0,0,1,4,0,0,0,0,0,14718,0,0,0,0,0,0,0
+2013-2014,Grape and Wine Research and Development Corporation,FALSE,No data,Agriculture,FALSE,2/07/2014 16:17,TRUE,0,1,40,10,5,5,0,0,0,1,20,0,0,0,0,0,0,0,0,0,1500,0,0,0
+2013-2014,Minister for Agriculture,TRUE,Department of Agriculture,Agriculture,FALSE,30/07/2014 23:59,FALSE,0,0,0,0,0,0,16,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Rural Advisory Council,TRUE,No data,Agriculture,TRUE,6/05/2014 10:41,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary to the Minister for Agriculture,TRUE,Department of Agriculture,Agriculture,TRUE,31/07/2014 0:25,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Rural Industries Research and Development Corporation,TRUE,No data,Agriculture,FALSE,17/07/2014 13:12,FALSE,0,2,8,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Sugar Research and Development Corporation,FALSE,No data,Agriculture,TRUE,31/07/2014 0:21,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Wine Australia Corporation,FALSE,No data,Agriculture,TRUE,25/07/2014 21:43,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Administrative Appeals Tribunal,TRUE,No data,Attorney-General's,FALSE,21/07/2014 12:56,FALSE,0,7,88,0,2,0,0,0,0,1,46,0,0,0,50,0,0,0,0,0,0,0,0,0
+2013-2014,Administrative Review Council,TRUE,No data,Attorney-General's,FALSE,30/07/2014 23:12,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Admiralty Rules Committee,TRUE,Attorney-General's Department,Attorney-General's,TRUE,30/07/2014 23:13,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Attorney-General,TRUE,Attorney-General's Department,Attorney-General's,FALSE,30/07/2014 23:19,FALSE,0,2,0,0,0,0,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Attorney-General's Department,TRUE,Attorney-General's Department,Attorney-General's,FALSE,13/02/2014 16:07,FALSE,6,189,5928,232,1160,1160,0,0,6,2,3312,0,0,1656,11530,0,0,0,0,0,3375,0,0,0
+2013-2014,Australia Council for the Arts,TRUE,No data,Attorney-General's,FALSE,30/07/2014 23:23,FALSE,0,2,0,3,0,0,0,0,0,0,0,0,0,1,300,50,0,0,0,0,0,0,0,0
+2013-2014,Australian Commission for Law Enforcement Integrity,TRUE,No data,Attorney-General's,FALSE,30/07/2014 23:25,FALSE,0,18,36,0,6,1,0,0,0,3,4,0,1,0,0,265,0,0,0,0,0,0,0,0
+2013-2014,Australian Crime Commission,TRUE,No data,Attorney-General's,FALSE,30/07/2014 23:28,FALSE,1,10,1150,55,176,0,0,0,0,2,15,0,0,0,0,0,1164,0,0,0,679,0,0,0
+2013-2014,Australian Federal Police,TRUE,No data,Attorney-General's,FALSE,25/06/2014 9:50,FALSE,8,493,14883,17,510,5136,7,0,1,62,1860,207,2358,2213,0,0,15125,0,0,0,0,0,0,0
+2013-2014,"Australian Film, Television and Radio School",TRUE,No data,Attorney-General's,FALSE,8/07/2014 15:44,FALSE,0,4,10,3,1,0,1,1,0,3,3,0,2,0,4,0,2432,0,0,0,0,0,0,0
+2013-2014,Australian Financial Security Authority,TRUE,No data,Attorney-General's,FALSE,29/07/2014 10:13,FALSE,0,30,450,5,40,50,0,0,0,2,3,0,0,0,1750,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Human Rights Commission,TRUE,No data,Attorney-General's,FALSE,17/07/2014 14:13,FALSE,0,6,0,0,347,27,0,0,0,0,0,0,0,0,978,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Institute of Criminology,TRUE,No data,Attorney-General's,FALSE,28/07/2014 9:23,FALSE,1,0,19,0,0,0,0,0,0,0,0,0,0,0,3500,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Law Reform Commission,TRUE,No data,Attorney-General's,FALSE,28/07/2014 10:06,FALSE,0,5,14,2,0,4,0,0,0,2,182,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian National Maritime Museum,TRUE,No data,Attorney-General's,FALSE,30/07/2014 23:33,FALSE,0,3,100,5,10,20,0,0,0,2,100,0,10,20,100,100,0,0,0,0,0,0,0,0
+2013-2014,Australian Transaction Reports and Analysis Centre (AUSTRAC),TRUE,No data,Attorney-General's,FALSE,1/07/2014 8:36,FALSE,2,2,3,0,2010,1610,0,0,0,2,2,0,10,1,0,0,0,0,0,0,2240,0,0,0
+2013-2014,Classification Board,TRUE,Attorney-General's Department,Attorney-General's,TRUE,30/07/2014 23:40,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Classification Review Board,TRUE,Attorney-General's Department,Attorney-General's,TRUE,30/07/2014 23:40,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Copyright Tribunal of Australia,TRUE,No data,Attorney-General's,FALSE,30/07/2014 23:44,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,CrimTrac,TRUE,No data,Attorney-General's,FALSE,14/07/2014 11:23,FALSE,1,4,1630,0,5,10,0,0,0,1,20,0,0,0,250,100,0,0,0,0,0,0,0,0
+2013-2014,Defence Force Discipline Appeal Tribunal,TRUE,No data,Attorney-General's,TRUE,30/07/2014 23:46,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Family Court of Australia,TRUE,No data,Attorney-General's,FALSE,30/06/2014 13:20,FALSE,0,1,17,0,6,0,0,0,0,1,2,0,0,0,10,0,0,0,0,0,0,0,0,0
+2013-2014,Family Law Council,TRUE,No data,Attorney-General's,TRUE,4/07/2014 17:16,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Federal Circuit Court of Australia,TRUE,No data,Attorney-General's,FALSE,17/04/2014 9:45,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Federal Court of Australia,TRUE,No data,Attorney-General's,FALSE,8/07/2014 16:37,FALSE,0,3,15,0,1,0,0,0,0,1,32,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Film Certification Advisory Board,TRUE,Attorney-General's Department,Attorney-General's,TRUE,30/07/2014 23:53,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,High Court of Australia,TRUE,No data,Attorney-General's,FALSE,29/07/2014 14:27,FALSE,0,4,0,20,0,10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister Assisting on Queensland Floods Recovery,FALSE,Attorney-General's Department,Attorney-General's,TRUE,25/07/2014 22:48,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Emergency Management,FALSE,Attorney-General's Department,Attorney-General's,TRUE,25/07/2014 22:58,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Home Affairs,FALSE,Attorney-General's Department,Attorney-General's,TRUE,26/07/2014 18:33,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Justice,TRUE,Attorney-General's Department,Attorney-General's,FALSE,31/07/2014 0:04,FALSE,0,3,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for the Arts,TRUE,Attorney-General's Department,Attorney-General's,TRUE,16/07/2014 15:57,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Museum of Australian Democracy,TRUE,No data,Attorney-General's,FALSE,2/07/2014 10:53,FALSE,0,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Archives of Australia,TRUE,No data,Attorney-General's,FALSE,15/07/2014 8:21,FALSE,0,1,135,4,0,0,0,0,0,1,8,0,0,0,7297,393,0,0,0,0,131,0,0,0
+2013-2014,National Film and Sound Archive of Australia,TRUE,No data,Attorney-General's,FALSE,21/07/2014 13:57,FALSE,0,1,35,1,1,1,0,0,0,3,20,0,5,10,100,100,400,0,0,0,0,0,0,0
+2013-2014,National Gallery of Australia,TRUE,No data,Attorney-General's,FALSE,31/07/2014 0:08,FALSE,0,1,60,14,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,900,0,0,0
+2013-2014,National Library of Australia,TRUE,No data,Attorney-General's,FALSE,21/07/2014 8:10,FALSE,0,3,50,10,0,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Museum of Australia,TRUE,No data,Attorney-General's,FALSE,7/07/2014 9:09,FALSE,0,2,77,2,12,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1350,0,0,0
+2013-2014,National Native Title Tribunal,TRUE,No data,Attorney-General's,FALSE,22/01/2014 14:58,FALSE,0,6,0,10,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Portrait Gallery of Australia,TRUE,No data,Attorney-General's,FALSE,29/07/2014 15:29,FALSE,0,1,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Office of Parliamentary Counsel,TRUE,No data,Attorney-General's,FALSE,31/07/2014 0:12,FALSE,0,1,10,1,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Office of the Australian Information Commissioner,TRUE,No data,Attorney-General's,FALSE,18/07/2014 11:56,FALSE,1,15,487,10,120,20,0,0,0,3,110,5,20,0,950,0,0,0,0,0,0,0,0,0
+2013-2014,Office of the Commonwealth Director of Public Prosecutions,TRUE,No data,Attorney-General's,FALSE,8/07/2014 12:00,FALSE,0,18,350,50,80,150,0,0,0,2,14,2,0,0,3500,500,0,0,0,0,0,0,0,0
+2013-2014,Public Lending Right Committee,TRUE,Attorney-General's Department,Attorney-General's,TRUE,14/10/2013 12:27,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Screen Australia,TRUE,No data,Attorney-General's,FALSE,1/07/2014 9:36,FALSE,0,2,40,10,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1350,0,0,0
+2013-2014,Solicitor-General,TRUE,Attorney-General's Department,Attorney-General's,TRUE,31/07/2014 0:19,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Broadcasting Corporation,TRUE,No data,Communications,FALSE,30/07/2014 23:23,FALSE,0,1,180,15,75,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Communications and Media Authority,TRUE,No data,Communications,FALSE,29/07/2014 10:25,FALSE,0,34,387,30,459,1,0,0,0,3,35,0,5,10,10,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Postal Corporation,TRUE,No data,Communications,FALSE,28/07/2014 11:27,FALSE,0,2,900,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Department of Communications,TRUE,Department of Communications,Communications,FALSE,10/07/2014 11:14,FALSE,2,101,4520,189,1962,0,4,4,0,2,113,0,0,0,1000,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Communications,TRUE,Department of Communications,Communications,TRUE,31/07/2014 0:00,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,NBN Co Limited (ACN 136 533 741),TRUE,No data,Communications,FALSE,15/07/2014 9:47,FALSE,1,1,2125,0,350,35,0,0,1,1,375,0,144,48,0,0,8816,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary to the Minister for Communications,TRUE,Department of Communications,Communications,TRUE,28/07/2014 8:35,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Special Broadcasting Service Corporation,TRUE,No data,Communications,FALSE,31/07/2014 0:19,FALSE,0,1,147,0,88,56,0,0,0,0,0,0,0,0,22954,0,14283,0,0,0,1375,0,0,0
+2013-2014,Telecommunications Universal Service Management Agency ,TRUE,No data,Communications,TRUE,8/10/2013 9:33,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Army and Air Force Canteen Service,TRUE,No data,Defence,TRUE,8/07/2014 14:02,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Assistant Minister for Defence,TRUE,Department of Defence,Defence,TRUE,1/07/2014 14:30,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Defence Human Research Ethics Committee,TRUE,Department of Defence,Defence,TRUE,1/07/2014 14:08,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Military Forces Relief Trust Fund,TRUE,Department of Defence,Defence,FALSE,18/07/2014 11:29,FALSE,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian War Memorial,TRUE,No data,Defence,FALSE,23/07/2014 15:29,FALSE,0,2,40,4,0,0,0,0,0,2,3,0,2,0,0,0,19241,0,0,0,0,0,0,0
+2013-2014,Defence Families of Australia,TRUE,Department of Defence,Defence,TRUE,1/07/2014 13:41,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Defence Housing Australia,TRUE,No data,Defence,FALSE,30/07/2014 23:47,FALSE,0,2,250,0,35,0,0,0,0,1,25,0,0,0,400,0,4500,0,0,0,1840,0,0,0
+2013-2014,Defence Reserves Support Council,TRUE,Department of Defence,Defence,TRUE,1/07/2014 14:00,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Department of Defence,TRUE,Department of Defence,Defence,FALSE,3/03/2014 15:17,FALSE,16,89,40486,17,1781,795,172,0,0,12,480,40,48,40,16484,1200,10352,0,0,0,56280,0,3120,0
+2013-2014,Department of Veterans' Affairs,TRUE,Department of Veterans' Affairs,Defence,FALSE,19/12/2013 14:29,FALSE,9,18,15000,70,90,12000,5,20,0,3,20,0,0,0,35500,0,70000,0,0,0,0,0,0,0
+2013-2014,Military Rehabilitation and Compensation Commission,TRUE,Department of Veterans' Affairs,Defence,TRUE,29/07/2014 10:29,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister Assisting the Prime Minister on the Centenary of ANZAC,TRUE,Department of Veterans' Affairs,Defence,TRUE,29/07/2014 10:44,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Defence,TRUE,Department of Defence,Defence,FALSE,1/07/2014 14:47,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Defence Materiel,FALSE,Department of Defence,Defence,TRUE,2/05/2014 14:17,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Defence Science and Personnel,FALSE,Department of Defence,Defence,TRUE,2/05/2014 14:15,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Veterans' Affairs,TRUE,Department of Veterans' Affairs,Defence,FALSE,29/07/2014 10:23,FALSE,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary to the Minister for Defence,TRUE,Department of Defence,Defence,TRUE,1/07/2014 14:24,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Repatriation Commission,TRUE,Department of Veterans' Affairs,Defence,TRUE,29/07/2014 10:32,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Repatriation Medical Authority,TRUE,No data,Defence,FALSE,21/07/2014 13:17,FALSE,0,1,100,20,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Royal Australian Air Force Veterans' Residences Trust Fund,TRUE,No data,Defence,TRUE,1/07/2014 9:49,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Royal Australian Air Force Welfare Trust Fund,TRUE,No data,Defence,TRUE,26/06/2014 10:16,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Royal Australian Navy Central Canteens Fund,TRUE,Department of Defence,Defence,TRUE,1/07/2014 14:05,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Royal Australian Navy Relief Trust Fund,TRUE,Department of Defence,Defence,TRUE,1/07/2014 14:03,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Specialist Medical Review Council,TRUE,No data,Defence,TRUE,4/07/2014 15:32,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Veterans' Review Board,TRUE,No data,Defence,FALSE,2/07/2014 10:15,FALSE,0,2,19,0,1,0,0,0,0,2,24,0,1,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Assistant Minister for Education,TRUE,Department of Education,Education,TRUE,24/07/2014 14:55,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,"Australian Curriculum, Assessment and Reporting Authority",TRUE,No data,Education,FALSE,18/07/2014 14:13,FALSE,0,8,350,40,150,6,0,0,0,8,25,0,5,60,0,0,31731,0,38212,0,0,0,0,0
+2013-2014,Australian Institute of Aboriginal and Torres Strait Islander Studies,TRUE,No data,Education,FALSE,29/07/2014 12:57,FALSE,0,8,60,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian National University,TRUE,No data,Education,FALSE,2/07/2014 15:45,FALSE,1,3,123,8,81,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Research Council,TRUE,No data,Education,FALSE,30/07/2014 11:24,FALSE,0,4,0,0,41,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Department of Education,TRUE,Department of Education,Education,FALSE,24/07/2014 14:54,FALSE,3,2,3379,185,339,86,0,0,0,5,204,0,5,0,1871,0,0,0,0,0,920,0,0,0
+2013-2014,Minister for Education,TRUE,Department of Education,Education,FALSE,24/07/2014 14:55,FALSE,0,2,45,1,5,0,6,10,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary for Schools,FALSE,Department of Education,Education,TRUE,9/12/2013 15:03,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary to the Minister for Education,TRUE,Department of Education,Education,TRUE,24/07/2014 14:55,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,The Tertiary Education Quality and Standards Agency,TRUE,No data,Education,FALSE,11/07/2014 10:38,FALSE,0,3,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Asbestos Safety and Eradication Agency,TRUE,No data,Employment,TRUE,28/07/2014 13:09,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Assistant Minister for Employment,TRUE,Department of Employment,Employment,TRUE,16/07/2014 10:45,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Coal Mining Industry (Long Service Leave Funding) Corporation,TRUE,Department of Employment,Employment,FALSE,16/07/2014 10:34,FALSE,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3300,0,0,0,0,0,0,0
+2013-2014,Comcare,TRUE,Comcare,Employment,FALSE,5/12/2013 13:15,FALSE,2,30,3300,132,1200,720,2,1,0,1,1850,0,40,0,400,0,49100,0,0,0,900,0,5000,0
+2013-2014,Department of Employment,TRUE,Department of Employment,Employment,FALSE,14/07/2014 11:07,FALSE,7,5,8439,140,430,607,0,0,0,6,278,10,30,20,4923,0,1421,0,0,0,0,0,0,0
+2013-2014,Fair Work Commission,TRUE,Fair Work Commission,Employment,FALSE,29/07/2014 11:02,FALSE,1,1,1315,0,0,3,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0
+2013-2014,Fair Work Ombudsman,TRUE,No data,Employment,FALSE,24/01/2014 9:13,FALSE,3,1,4500,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Employment,TRUE,Department of Employment,Employment,FALSE,9/12/2013 15:02,FALSE,0,3,63,3,2,2,12,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Office of the Fair Work Building Industry Inspectorate ,TRUE,No data,Employment,FALSE,25/07/2014 14:18,FALSE,0,8,39,8,37,334,0,0,0,2,30,0,0,3,0,0,40580,0,0,0,0,0,0,0
+2013-2014,Road Safety Remuneration Tribunal,TRUE,Fair Work Commission,Employment,TRUE,29/07/2014 11:01,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Safe Work Australia,TRUE,No data,Employment,FALSE,7/07/2014 12:37,FALSE,0,2,60,5,5,0,0,0,0,1,5,0,0,0,100,0,0,0,0,0,0,0,0,0
+2013-2014,"Safety, Rehabilitation and Compensation Commission",TRUE,Comcare,Employment,FALSE,21/07/2014 10:35,FALSE,1,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,"Seafarers Safety, Rehabilitation and Compensation (Seacare) Authority",TRUE,Comcare,Employment,FALSE,21/07/2014 10:34,FALSE,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Workplace Gender Equality Agency,TRUE,No data,Employment,TRUE,24/07/2014 12:03,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Heritage Council,TRUE,Department of the Environment,Environment,TRUE,30/07/2014 23:31,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Bureau of Meteorology,TRUE,No data,Environment,FALSE,8/07/2014 9:33,FALSE,1,61,162,43,85,14,0,0,0,1,5,0,0,0,163450,0,2278,0,0,0,1350,0,0,0
+2013-2014,Clean Energy Regulator,TRUE,No data,Environment,FALSE,10/07/2014 13:30,FALSE,0,22,250,25,55,35,0,0,0,5,40,0,3,0,20,0,0,0,0,0,0,0,0,0
+2013-2014,Climate Change Authority,TRUE,Department of the Environment,Environment,FALSE,16/07/2014 13:28,FALSE,0,2,0,4,10,0,0,0,0,1,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Commonwealth Environmental Water Holder,TRUE,Department of the Environment,Environment,TRUE,30/07/2014 23:41,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Department of the Environment,TRUE,Department of the Environment,Environment,FALSE,30/07/2014 23:50,FALSE,1,4,3300,410,1300,340,2,0,1,2,300,205,515,0,1200,100,8387,0,0,0,0,0,0,0
+2013-2014,Director of National Parks,TRUE,Department of the Environment,Environment,FALSE,30/07/2014 23:52,FALSE,0,1,5,2,10,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Great Barrier Reef Marine Park Authority,TRUE,No data,Environment,FALSE,18/07/2014 16:13,FALSE,2,37,703,1,76,43,0,0,0,6,0,0,0,10,7855,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for the Environment,TRUE,Department of the Environment,Environment,FALSE,31/07/2014 0:05,FALSE,0,2,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Murray-Darling Basin Authority,TRUE,No data,Environment,FALSE,7/07/2014 16:44,FALSE,0,15,47,9,52,8,0,0,0,8,4,0,1170,0,321,0,0,0,0,0,0,0,0,0
+2013-2014,National Environment Protection Council,TRUE,Department of the Environment,Environment,TRUE,31/07/2014 0:06,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Environment Protection Council Service Corporation,TRUE,Department of the Environment,Environment,TRUE,31/07/2014 0:07,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Water Commission,TRUE,No data,Environment,FALSE,21/07/2014 11:40,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary for Sustainability and Urban Water,FALSE,Department of the Environment,Environment,TRUE,25/07/2014 22:21,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary to the Minister for the Environment,TRUE,Department of the Environment,Environment,TRUE,3/08/2014 15:18,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Sydney Harbour Federation Trust,TRUE,No data,Environment,FALSE,30/07/2014 9:54,FALSE,0,2,90,0,230,30,0,0,0,0,0,0,0,0,210,0,0,0,0,0,0,0,0,0
+2013-2014,Water Efficiency Labelling and Standards Regulator,TRUE,Department of the Environment,Environment,TRUE,31/07/2014 0:24,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Albury-Wodonga Corporation,TRUE,No data,Finance,FALSE,30/07/2014 23:16,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australasian Procurement and Construction Council Inc,TRUE,Department of Finance,Finance,FALSE,30/07/2014 23:21,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Electoral Commission,TRUE,No data,Finance,FALSE,10/07/2014 8:23,FALSE,0,3,300,20,100,150,0,0,0,15,0,0,0,0,400,100,0,0,0,0,675,0,0,0
+2013-2014,Australian Political Exchange Council,TRUE,Department of Finance,Finance,FALSE,30/07/2014 23:35,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Commonwealth Superannuation Corporation (previously ARIA),TRUE,No data,Finance,FALSE,30/07/2014 23:42,FALSE,0,2,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,ComSuper,TRUE,No data,Finance,FALSE,21/07/2014 9:15,FALSE,1,1,858,0,85,0,0,0,0,0,0,0,0,0,640,0,0,0,0,0,700,0,0,0
+2013-2014,Department of Finance,TRUE,Department of Finance,Finance,FALSE,14/07/2014 10:33,FALSE,3,7,5646,1115,2230,1115,0,0,0,1,51,0,0,0,5500,0,0,0,0,0,0,0,0,0
+2013-2014,Future Fund Management Agency,TRUE,No data,Finance,FALSE,17/07/2014 16:33,FALSE,0,7,0,2,71,0,0,0,0,1,0,0,1,0,0,0,31654,0,0,0,1780,0,0,0
+2013-2014,Minister Assisting for Deregulation,FALSE,Department of Finance,Finance,TRUE,25/07/2014 22:43,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Finance,TRUE,Department of Finance,Finance,FALSE,31/07/2014 0:01,FALSE,0,2,6,0,0,0,4,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Retiring Allowances Trust,TRUE,Department of Finance,Finance,FALSE,31/07/2014 0:13,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary to the Minister for Finance,TRUE,Department of Finance,Finance,TRUE,3/08/2014 19:04,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Secretaries' ICT Governance Board,TRUE,Department of Finance,Finance,FALSE,31/07/2014 0:19,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Special Minister of State,TRUE,Department of Finance,Finance,FALSE,31/07/2014 0:20,FALSE,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Agency for International Development (AusAID),FALSE,No data,Foreign Affairs and Trade,FALSE,18/10/2013 16:37,TRUE,1,2,600,30,60,15,0,0,1,35,267,8,12,8,33,0,374,0,0,0,0,0,0,0
+2013-2014,Australian Centre for International Agricultural Research,TRUE,No data,Foreign Affairs and Trade,TRUE,3/07/2014 16:18,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Trade Commission (Austrade),TRUE,No data,Foreign Affairs and Trade,FALSE,14/10/2013 12:43,FALSE,0,4,400,100,100,0,0,0,0,0,100,0,0,0,1000,0,5000,0,0,0,1000,0,0,0
+2013-2014,Department of Foreign Affairs and Trade,TRUE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,FALSE,2/12/2013 9:49,FALSE,6,2,13250,0,2770,2700,0,0,0,1,200,0,0,0,2179,0,0,0,0,0,5000,0,0,0
+2013-2014,Export Finance and Insurance Corporation,TRUE,No data,Foreign Affairs and Trade,FALSE,1/07/2014 10:40,FALSE,0,13,60,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,18960,0
+2013-2014,Minister for Foreign Affairs,TRUE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,FALSE,21/07/2014 10:05,FALSE,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Tourism,FALSE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,TRUE,16/10/2013 17:09,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Trade and Investment,TRUE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,FALSE,21/07/2014 10:03,FALSE,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary for Pacific Island Affairs,FALSE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,TRUE,25/07/2014 22:27,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary for Trade,FALSE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,TRUE,25/07/2014 22:20,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary to the Minister for Foreign Affairs,TRUE,Department of Foreign Affairs and Trade,Foreign Affairs and Trade,TRUE,3/08/2014 19:05,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Tourism Australia,TRUE,No data,Foreign Affairs and Trade,FALSE,21/07/2014 18:23,FALSE,0,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Advisory Committee on Biologicals,TRUE,Department of Health,Health,TRUE,25/07/2014 14:56,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Advisory Committee on Chemicals Scheduling ,TRUE,Department of Health,Health,TRUE,25/07/2014 14:56,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Advisory Committee on Complementary Medicines,TRUE,Department of Health,Health,TRUE,25/07/2014 14:55,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Advisory Committee on Medical Devices ,TRUE,Department of Health,Health,TRUE,25/07/2014 14:55,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Advisory Committee on Medicines Scheduling ,TRUE,Department of Health,Health,TRUE,25/07/2014 14:56,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Advisory Committee on Non-prescription Medicines ,TRUE,Department of Health,Health,TRUE,25/07/2014 14:57,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Advisory Committee on Prescription Medicines,TRUE,Department of Health,Health,TRUE,25/07/2014 14:57,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Advisory Committee on the Safety of Medical Devices,TRUE,Department of Health,Health,TRUE,25/07/2014 14:57,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Advisory Committee on the Safety of Medicines,TRUE,Department of Health,Health,TRUE,25/07/2014 14:58,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Assistant Minister for Health ,TRUE,Department of Health,Health,FALSE,25/07/2014 14:52,FALSE,0,3,0,0,0,0,4,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Commission on Safety and Quality in Health Care,TRUE,Australian Commission on Safety and Quality in Health Care,Health,FALSE,30/07/2014 23:25,FALSE,0,1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Commission on Safety and Quality in Healthcare Board,TRUE,Australian Commission on Safety and Quality in Health Care,Health,TRUE,30/07/2014 23:26,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Community Pharmacy Authority,TRUE,Department of Health,Health,TRUE,25/07/2014 14:58,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Institute of Health and Welfare,TRUE,No data,Health,FALSE,22/01/2014 12:14,FALSE,0,3,40,2,10,8,0,0,0,2,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian National Preventive Health Agency,TRUE,Department of Health,Health,FALSE,15/10/2013 13:31,TRUE,0,3,4,10,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Organ and Tissue Donation and Transplantation Authority,TRUE,No data,Health,FALSE,14/07/2014 10:17,FALSE,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Radiation Protection and Nuclear Safety Agency,TRUE,No data,Health,FALSE,17/07/2014 15:12,FALSE,0,2,80,5,1,0,0,0,0,1,20,0,0,0,1000,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Sports Anti-Doping Authority,TRUE,No data,Health,FALSE,13/03/2014 16:58,FALSE,1,12,300,5,300,30,0,0,1,12,50,5,50,0,255,0,10000,0,0,0,0,0,0,0
+2013-2014,Australian Sports Commission,TRUE,No data,Health,FALSE,3/07/2014 14:53,FALSE,0,1,32,0,13,0,0,10,0,1,10,0,0,0,150,0,0,0,0,0,0,0,0,0
+2013-2014,Cancer Australia,TRUE,No data,Health,FALSE,2/07/2014 11:42,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Complaints Resolution Panel (Therapeutic good advertising),TRUE,Department of Health,Health,TRUE,25/07/2014 14:58,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Department of Health,TRUE,Department of Health,Health,FALSE,9/07/2014 10:36,FALSE,9,150,18000,444,5373,98,0,0,0,0,0,0,0,0,6280,0,107194,0,0,0,619,0,4160,0
+2013-2014,Food Standards Australia New Zealand,TRUE,No data,Health,FALSE,8/07/2014 14:08,FALSE,0,115,877,20,309,18,0,0,0,4,65,0,0,0,5500,0,10800,0,0,0,2550,0,0,0
+2013-2014,Gene Technology Ethics & Community Consultative Committee,TRUE,Department of Health,Health,TRUE,25/07/2014 14:59,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Gene Technology Ministerial Council,TRUE,Department of Health,Health,TRUE,25/07/2014 14:59,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Gene Technology Regulator,TRUE,Department of Health,Health,TRUE,25/07/2014 15:00,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Gene Technology Technical Advisory Committee,TRUE,Department of Health,Health,TRUE,25/07/2014 15:00,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Health and Hospitals Fund Advisory Board,TRUE,Department of Health,Health,TRUE,25/07/2014 15:00,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Health Workforce Australia,TRUE,No data,Health,FALSE,28/07/2014 22:09,TRUE,0,1,0,0,30,0,0,0,0,1,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Independent Hospital Pricing Authority,TRUE,No data,Health,TRUE,4/07/2014 16:26,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Independent Review PBS Cost Recovery Committee,TRUE,Department of Health,Health,TRUE,25/07/2014 15:01,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Medical Training Review Panel,TRUE,Department of Health,Health,TRUE,25/07/2014 15:02,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Medicare Participation Review Committee,TRUE,Department of Health,Health,TRUE,25/07/2014 15:02,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Health,TRUE,Department of Health,Health,FALSE,25/07/2014 14:52,FALSE,0,3,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Health and Medical Research,FALSE,Department of Health,Health,TRUE,15/10/2013 13:24,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Indigenous Health,FALSE,Department of Health,Health,TRUE,15/10/2013 13:25,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Mental Health and Ageing,FALSE,Department of Health,Health,TRUE,15/10/2013 13:28,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Sport,TRUE,Department of Health,Health,TRUE,25/07/2014 15:08,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Blood Authority,TRUE,No data,Health,TRUE,7/07/2014 9:12,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Health and Medical Research Council,TRUE,No data,Health,FALSE,31/07/2014 0:08,FALSE,0,17,45,175,263,100,0,0,0,1,3,0,3,0,0,0,1332,0,0,0,0,0,0,0
+2013-2014,National Health Performance Authority ,TRUE,Department of Health,Health,TRUE,25/07/2014 15:04,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Industrial Chemicals Notification and Assessment Scheme,TRUE,No data,Health,FALSE,21/07/2014 13:44,FALSE,0,1,20,1,0,0,0,0,0,1,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Mental Health Commission,TRUE,No data,Health,TRUE,23/07/2014 11:14,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary for Health and Ageing,FALSE,Department of Health,Health,TRUE,15/10/2013 13:29,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Pathology Services Table Committee,TRUE,Department of Health,Health,TRUE,25/07/2014 15:05,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Pharmaceutical Benefits Advisory Committee,TRUE,Department of Health,Health,TRUE,25/07/2014 15:05,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Pharmaceutical Benefits Remuneration Tribunal,TRUE,Department of Health,Health,TRUE,25/07/2014 15:05,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Private Health Insurance Administration Council,TRUE,No data,Health,FALSE,23/07/2014 11:30,FALSE,0,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Private Health Insurance Ombudsman,TRUE,No data,Health,FALSE,1/07/2014 15:12,FALSE,0,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Professional Services Review,TRUE,No data,Health,TRUE,31/07/2014 0:15,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Prostheses List Advisory Committee,TRUE,Department of Health,Health,TRUE,25/07/2014 15:06,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Second Review Dental Benefits Act 2008 Committee,TRUE,Department of Health,Health,TRUE,25/07/2014 15:06,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Sport and Recreation Ministers' Council,TRUE,Department of Health,Health,FALSE,31/07/2014 0:20,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Therapeutic Goods Advertising Code Council,TRUE,Department of Health,Health,TRUE,25/07/2014 15:06,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Therapeutic Goods Committee,TRUE,Department of Health,Health,TRUE,25/07/2014 15:07,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Assistant Minister for Immigration and Border Protection,TRUE,Department of Immigration and Border Protection,Immigration and Border Protection,TRUE,30/07/2014 10:52,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Customs and Border Protection Service,TRUE,No data,Immigration and Border Protection,FALSE,30/07/2014 7:42,FALSE,2,16,4741,110,491,175,43,0,1,6,10,0,0,0,723,0,0,0,0,0,0,0,0,0
+2013-2014,Department of Immigration and Border Protection,TRUE,Department of Immigration and Border Protection,Immigration and Border Protection,FALSE,28/07/2014 12:25,FALSE,79,22,118242,90,360,90,0,0,0,2,3600,0,0,0,76508,0,19775,0,33742,0,876,0,47012,0
+2013-2014,Migration Review Tribunal,TRUE,Migration Review Tribunal,Immigration and Border Protection,FALSE,21/10/2013 15:58,FALSE,0,60,512,0,25,20,0,0,0,1,0,0,1,0,7611,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Immigration and Border Protection,TRUE,Department of Immigration and Border Protection,Immigration and Border Protection,TRUE,30/07/2014 10:51,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Immigration and Citizenship,FALSE,Department of Immigration and Border Protection,Immigration and Border Protection,TRUE,25/07/2014 21:17,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Multicultural Affairs,FALSE,Department of Immigration and Border Protection,Immigration and Border Protection,TRUE,25/07/2014 23:17,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Refugee Review Tribunal,TRUE,Migration Review Tribunal,Immigration and Border Protection,FALSE,31/07/2014 0:15,FALSE,0,60,635,0,25,20,0,0,0,1,1,0,0,0,9303,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Institute of Marine Science,TRUE,No data,Industry,FALSE,21/07/2014 9:23,FALSE,0,5,4,3,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Nuclear Science and Technology Organisation,TRUE,No data,Industry,FALSE,21/07/2014 11:17,FALSE,0,7,162,0,34,22,0,0,0,2,5,0,0,0,200,0,1530,0,0,0,0,0,0,0
+2013-2014,Australian Renewable Energy Agency,TRUE,Department of Industry,Industry,TRUE,16/10/2013 16:46,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Skills Quality Authority,TRUE,No data,Industry,FALSE,3/02/2014 10:18,FALSE,0,41,354,5,91,33,0,0,0,2,15,0,0,0,500,0,0,0,0,0,1513,0,0,0
+2013-2014,Commonwealth Scientific and Industrial Research Organisation (CSIRO),TRUE,No data,Industry,FALSE,1/07/2014 16:35,FALSE,3,0,3480,0,0,2000,0,0,0,3,0,0,0,0,1570,0,13933,0,0,0,0,0,0,0
+2013-2014,Ctee's estab'd under Tradesmen's Rights Regulation Act 1946,TRUE,Department of Industry,Industry,TRUE,16/07/2014 7:15,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Department of Industry,TRUE,Department of Industry,Industry,FALSE,15/10/2013 14:32,FALSE,2,3,5800,2250,2250,2250,0,0,0,1,400,0,0,0,450,0,0,0,0,0,0,0,0,0
+2013-2014,Designs Office,TRUE,Designs Office,Industry,FALSE,28/07/2014 12:18,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Geoscience Australia,TRUE,Department of Industry,Industry,FALSE,16/10/2013 16:22,FALSE,0,2,30,1,10,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0
+2013-2014,Minister Assisting for Industry and Innovation,FALSE,Department of Industry,Industry,TRUE,6/05/2014 11:00,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Industry,TRUE,Department of Industry,Industry,FALSE,16/07/2014 9:15,FALSE,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Offshore Petroleum Safety & Environmental Management Auth.,TRUE,No data,Industry,FALSE,31/07/2014 0:11,FALSE,0,7,775,0,25,0,0,0,0,2,20,0,0,0,70,0,808,0,0,0,0,0,0,0
+2013-2014,Offshore Minerals Joint Authority,TRUE,Department of Industry,Industry,TRUE,16/10/2013 16:40,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary to the Minister for Industry,TRUE,Department of Industry,Industry,FALSE,16/07/2014 8:35,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Patent and Trade Marks Attorneys Disciplinary Tribunal,TRUE,Designs Office,Industry,TRUE,29/07/2014 8:47,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Patent Office,TRUE,Designs Office,Industry,FALSE,29/07/2014 8:46,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Plant Breeder's Rights Advisory Committee,TRUE,Designs Office,Industry,TRUE,29/07/2014 8:49,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Professional Standards Board for Patent and Trade Marks Attorneys,TRUE,Designs Office,Industry,TRUE,29/07/2014 8:49,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Skills Australia Board,TRUE,Department of Industry,Industry,TRUE,16/07/2014 7:59,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,The Contributions Review Panel,FALSE,Department of Industry,Industry,TRUE,16/07/2014 8:21,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,The Education Investment Fund Advisory Board ,TRUE,Department of Industry,Industry,TRUE,16/07/2014 8:24,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Trade Marks Office,TRUE,Designs Office,Industry,FALSE,18/03/2014 9:33,FALSE,5,6,8466,40,250,40,0,0,0,8,328,0,10,40,10200,100,327,0,0,0,0,0,0,0
+2013-2014,Airservices Australia,TRUE,No data,Infrastructure and Regional Development,FALSE,30/07/2014 23:15,FALSE,1,3,900,100,100,60,0,0,1,2,48,0,0,4,1600,0,9000,0,0,0,1200,0,0,0
+2013-2014,Assistant Minister for Infrastructure and Regional Development,TRUE,Department of Infrastructure and Regional Development,Infrastructure and Regional Development,FALSE,11/07/2014 15:35,FALSE,0,6,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Maritime Safety Authority,TRUE,No data,Infrastructure and Regional Development,FALSE,16/07/2014 10:14,FALSE,0,3,450,10,5,30,0,0,0,0,3,0,0,3,870,150,0,0,0,0,0,0,0,0
+2013-2014,Australian Transport Safety Bureau,TRUE,No data,Infrastructure and Regional Development,FALSE,30/07/2014 23:39,FALSE,1,5,1872,104,370,28,0,0,0,3,10,0,0,0,200,0,0,0,0,0,0,0,0,0
+2013-2014,Civil Aviation Safety Authority,TRUE,No data,Infrastructure and Regional Development,FALSE,1/07/2014 10:28,FALSE,1,2,2400,0,100,150,0,0,0,1,25,0,0,0,1000,0,0,0,0,0,890,0,0,0
+2013-2014,Department of Infrastructure and Regional Development,TRUE,Department of Infrastructure and Regional Development,Infrastructure and Regional Development,FALSE,16/07/2014 15:35,FALSE,2,3,3120,278,1075,172,106,53,2,3,80,0,0,0,2070,0,0,0,0,0,1600,0,0,0
+2013-2014,Department of Infrastructure and Transport,FALSE,No data,Infrastructure and Regional Development,FALSE,21/10/2013 15:49,TRUE,1,1,525,49,159,38,15,5,0,1,20,3,5,5,630,0,0,0,0,0,580,0,0,0
+2013-2014,Infrastructure Australia,TRUE,Department of Infrastructure and Regional Development,Infrastructure and Regional Development,FALSE,11/07/2014 15:26,FALSE,0,1,730,30,70,80,0,0,0,1,20,0,0,0,2800,0,0,0,0,0,0,0,0,0
+2013-2014,International Air Services Commission,TRUE,Department of Infrastructure and Regional Development,Infrastructure and Regional Development,FALSE,11/07/2014 15:34,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Infrastructure and Regional Development,TRUE,Department of Infrastructure and Regional Development,Infrastructure and Regional Development,FALSE,16/07/2014 15:45,FALSE,0,11,0,6,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Infrastructure and Transport ,FALSE,Department of Infrastructure and Regional Development,Infrastructure and Regional Development,FALSE,7/11/2013 10:49,TRUE,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Road Safety,FALSE,Department of Infrastructure and Regional Development,Infrastructure and Regional Development,TRUE,7/11/2013 10:47,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Capital Authority,TRUE,No data,Infrastructure and Regional Development,FALSE,30/06/2014 13:43,FALSE,0,5,175,0,7,5,0,0,0,3,12,0,5,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Transport Commission,TRUE,No data,Infrastructure and Regional Development,FALSE,30/07/2014 14:02,FALSE,0,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary for Infrastructure and Transport,FALSE,Department of Infrastructure and Regional Development,Infrastructure and Regional Development,TRUE,7/11/2013 10:46,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Aboriginal Benefit Account Advisory Committee,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,30/07/2014 14:18,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Aboriginal Hostels Limited,TRUE,No data,Prime Minister and Cabinet,TRUE,10/07/2014 14:50,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Public Service Commission,TRUE,Australian Public Service Commission,Prime Minister and Cabinet,FALSE,30/07/2014 16:58,FALSE,0,22,550,30,50,20,1,0,0,10,75,10,20,0,750,500,0,0,0,0,0,0,0,0
+2013-2014,Cabinet Secretary,FALSE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,25/07/2014 21:28,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Commonwealth Ombudsman,TRUE,No data,Prime Minister and Cabinet,FALSE,29/07/2014 15:05,FALSE,0,8,1006,13,0,1,0,0,0,1,2,0,0,0,54340,0,3171,0,0,0,0,0,0,0
+2013-2014,Coordinator General for Remote Indigenous Services,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,30/07/2014 23:44,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Defence Force Remuneration Tribunal,TRUE,No data,Prime Minister and Cabinet,FALSE,14/07/2014 9:46,FALSE,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Department of the Prime Minister and Cabinet,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,FALSE,29/07/2014 11:30,FALSE,3,10,9437,1150,1725,1725,0,0,0,0,0,0,0,0,0,0,0,0,10781,0,931,0,0,0
+2013-2014,Executive Director of Township Leasing,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,30/07/2014 23:52,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Indigenous Business Australia,TRUE,No data,Prime Minister and Cabinet,FALSE,30/07/2014 23:56,FALSE,0,1,40,5,2,0,0,0,0,1,5,0,0,0,50,0,0,0,0,0,0,0,0,0
+2013-2014,Indigenous Land Corporation,TRUE,No data,Prime Minister and Cabinet,FALSE,30/07/2014 23:56,FALSE,0,1,45,0,0,1,0,0,0,0,0,0,0,0,1500,0,0,0,0,0,0,0,0,0
+2013-2014,Merit Protection Commissioner,TRUE,Australian Public Service Commission,Prime Minister and Cabinet,FALSE,30/07/2014 16:53,FALSE,0,10,65,10,35,10,0,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0
+2013-2014,Minister Assisting the Prime Minister for the Public Service,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,FALSE,29/07/2014 11:31,FALSE,0,4,10,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister Assisting the Prime Minister for Women,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,28/07/2014 14:41,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Indigenous Affairs,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,FALSE,29/07/2014 11:31,FALSE,0,7,130,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for the Public Service and Integrity,FALSE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,25/07/2014 22:06,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for the Status of Women,FALSE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,21/10/2013 14:48,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Office of the Independent National Security Legislation Monitor (INSLM),TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,31/07/2014 0:12,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Office of the Official Secretary to the Governor-General,TRUE,No data,Prime Minister and Cabinet,FALSE,30/07/2014 16:05,FALSE,0,4,1,1,2,0,0,0,0,0,0,0,0,0,750,0,0,0,0,0,0,0,0,0
+2013-2014,Office of the Registrar of Indigenous Corporations,TRUE,No data,Prime Minister and Cabinet,FALSE,21/07/2014 12:07,FALSE,0,24,425,15,20,26,0,0,0,2,4,0,0,0,0,0,16920,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary to the Prime Minister,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,28/07/2014 14:39,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Prime Minister,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,FALSE,25/07/2014 16:15,FALSE,0,14,1302,0,0,0,240,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Remuneration Tribunal,TRUE,No data,Prime Minister and Cabinet,FALSE,14/07/2014 9:54,FALSE,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Torres Strait Regional Authority,TRUE,No data,Prime Minister and Cabinet,FALSE,31/07/2014 0:24,FALSE,0,4,0,0,6,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Wreck Bay Aboriginal Community Council ,TRUE,Department of the Prime Minister and Cabinet,Prime Minister and Cabinet,TRUE,31/07/2014 0:25,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Assistant Minister for Social Services,TRUE,Department of Social Services,Social Services,FALSE,30/07/2014 11:39,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Hearing,TRUE,No data,Social Services,FALSE,1/07/2014 12:17,FALSE,0,2,50,2,0,10,0,0,0,0,0,0,0,0,250,0,1000,0,0,0,0,0,0,0
+2013-2014,Australian Institute of Family Studies,TRUE,No data,Social Services,TRUE,1/07/2014 13:10,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Department of Human Services,TRUE,Department of Human Services,Social Services,FALSE,15/07/2014 12:47,FALSE,31,578,55800,2160,2976,20352,225,113,0,7,96,94,48,72,78631,0,53870,0,3850,0,22905,0,0,0
+2013-2014,Department of Social Services,TRUE,Department of Social Services,Social Services,FALSE,14/07/2014 12:33,FALSE,4,532,7800,821,1050,104,175,88,0,4,95,0,25,0,175,0,4413,0,0,0,7425,0,0,0
+2013-2014,Minister for Community Services,FALSE,Department of Social Services,Social Services,TRUE,2/05/2014 14:49,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Disability Reform,FALSE,Department of Social Services,Social Services,TRUE,2/05/2014 14:50,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Homelessness,FALSE,Department of Social Services,Social Services,TRUE,2/05/2014 14:51,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Housing,FALSE,Department of Social Services,Social Services,TRUE,2/05/2014 14:52,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Human Services,TRUE,Department of Human Services,Social Services,FALSE,31/07/2014 0:03,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Social Services,TRUE,Department of Social Services,Social Services,TRUE,7/07/2014 13:21,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Disability Insurance Agency,TRUE,No data,Social Services,FALSE,17/10/2013 9:44,FALSE,0,4,259,16,24,2,2,0,0,3,40,1,5,0,129,10,3520,0,0,0,0,0,0,0
+2013-2014,Office of the Aged Care Commissioner,TRUE,No data,Social Services,FALSE,30/06/2014 13:36,FALSE,0,2,0,0,5,0,0,0,0,2,10,0,2,0,0,0,0,319,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary for Disabilities and Carers,FALSE,Department of Social Services,Social Services,TRUE,2/05/2014 14:52,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary to the Minister for Social Services,TRUE,Department of Social Services,Social Services,TRUE,7/07/2014 13:20,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Social Security Appeals Tribunal,TRUE,No data,Social Services,FALSE,30/07/2014 13:09,FALSE,0,3,51,0,0,0,0,0,0,3,40,0,0,0,182,0,0,0,0,0,0,0,0,0
+2013-2014,The Administration of Norfolk Island,TRUE,No data,The Administration of Norfolk Island,FALSE,31/07/2014 0:23,FALSE,0,2,20,0,0,10,0,0,0,1,10,0,0,0,200,100,100,0,0,0,0,0,0,0
+2013-2014,Assistant Treasurer,TRUE,Department of the Treasury,Treasury,FALSE,30/07/2014 23:18,FALSE,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Auditing and Assurance Standards Board,TRUE,No data,Treasury,TRUE,17/07/2014 13:46,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Accounting Standards Board,TRUE,No data,Treasury,TRUE,7/07/2014 15:15,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Bureau of Statistics,TRUE,Australian Bureau of Statistics,Treasury,FALSE,30/07/2014 23:24,FALSE,0,5,25,1,5,6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1600,0,0,0
+2013-2014,Australian Charities and Not-for-Profits Commission,TRUE,No data,Treasury,FALSE,1/07/2014 11:01,FALSE,0,3,70,1,3,0,0,0,0,3,50,0,5,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Competition and Consumer Commission,TRUE,Australian Competition and Consumer Commission,Treasury,FALSE,8/07/2014 13:15,FALSE,2,17,0,18,2946,1482,0,0,0,2,0,0,0,10,24281,0,3391,0,0,0,0,0,0,0
+2013-2014,Australian Competition Tribunal,TRUE,No data,Treasury,TRUE,30/07/2014 23:27,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Energy Regulator,TRUE,Australian Competition and Consumer Commission,Treasury,FALSE,8/07/2014 13:14,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Prudential Regulation Authority,TRUE,No data,Treasury,FALSE,27/06/2014 15:13,FALSE,0,14,712,35,500,125,0,0,0,2,1,0,0,0,0,0,0,0,49306,0,3549,0,0,0
+2013-2014,Australian Reinsurance Pool Corporation,TRUE,Department of the Treasury,Treasury,FALSE,30/07/2014 23:36,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Securities and Investments Commission,TRUE,No data,Treasury,FALSE,30/07/2014 23:37,FALSE,1,90,2261,50,3260,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Australian Taxation Office,TRUE,No data,Treasury,FALSE,24/01/2014 13:07,FALSE,31,50,67900,100,25000,7000,0,0,0,1,400,12,250,5,86842,0,171177,0,16306,0,675,0,0,0
+2013-2014,Clean Energy Finance Corporation,TRUE,No data,Treasury,FALSE,26/06/2014 10:43,FALSE,0,10,138,8,0,0,0,0,0,2,2,0,0,0,200,0,11650,0,0,0,396,0,0,0
+2013-2014,Commonwealth Grants Commission,TRUE,No data,Treasury,TRUE,9/07/2014 10:05,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Companies Auditors and Liquidators Disciplinary Board,TRUE,Department of the Treasury,Treasury,TRUE,30/07/2014 23:43,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Corporations and Markets Advisory Committee,TRUE,No data,Treasury,TRUE,21/07/2014 11:53,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Department of the Treasury,TRUE,Department of the Treasury,Treasury,FALSE,14/11/2013 14:04,FALSE,1,8,5266,1366,1088,150,135,0,0,0,0,0,0,0,0,0,0,0,0,0,2470,0,0,0
+2013-2014,Financial Reporting Council,TRUE,Department of the Treasury,Treasury,TRUE,30/07/2014 23:53,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Financial Reporting Panel,FALSE,Department of the Treasury,Treasury,TRUE,25/07/2014 21:35,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Inspector-General of Taxation,TRUE,No data,Treasury,FALSE,30/07/2014 23:57,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Financial Services and Superannuation,FALSE,Department of the Treasury,Treasury,TRUE,27/07/2014 17:49,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Small Business,TRUE,Department of the Treasury,Treasury,TRUE,31/07/2014 0:04,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,National Competition Council,TRUE,No data,Treasury,TRUE,31/07/2014 0:07,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary to the Treasurer,TRUE,Department of the Treasury,Treasury,TRUE,31/07/2014 0:27,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Productivity Commission,TRUE,No data,Treasury,FALSE,15/07/2014 11:13,FALSE,0,2,4,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Reserve Bank of Australia,TRUE,No data,Treasury,FALSE,17/07/2014 15:58,FALSE,0,22,134,76,20,20,0,0,0,4,0,0,0,20,0,0,0,0,0,0,0,0,0,0
+2013-2014,Superannuation Complaints Tribunal,TRUE,No data,Treasury,FALSE,10/07/2014 15:33,FALSE,0,2,37,0,0,0,0,0,0,3,0,0,0,0,299,0,0,0,0,0,0,0,0,0
+2013-2014,Takeovers Panel,TRUE,Department of the Treasury,Treasury,TRUE,31/07/2014 0:23,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Tax Practitioners Board,TRUE,No data,Treasury,FALSE,29/07/2014 12:10,FALSE,0,1,1000,100,1,1,0,0,0,1,1,0,0,0,0,0,41960,0,0,0,975,0,0,0
+2013-2014,Treasurer,TRUE,Department of the Treasury,Treasury,FALSE,31/07/2014 0:24,FALSE,4,2,270,20,25,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,"Department of Education, Employment and Workplace Relations",FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,FALSE,28/11/2013 12:19,TRUE,11,3,3614,81,270,167,0,0,0,15,262,5,3,3,3868,0,0,0,0,0,0,0,0,2878
+2013-2014,"Department of Regional Australia, Local Government, Arts and Sport",FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,FALSE,14/10/2013 12:22,TRUE,1,1,525,50,140,35,5,5,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,"Department of Resources, Energy and Tourism",FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,FALSE,21/10/2013 7:54,TRUE,1,1,40,20,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,"Dept of Families, Housing, Community Services and Indigenous Affairs",FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,FALSE,21/10/2013 14:39,TRUE,3,156,1660,130,330,60,1,2,0,34,30,1,20,0,75,0,275,0,0,0,0,0,100,0
+2013-2014,Min for Early Childhood Childcare Youth and Employment Participation,FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,TRUE,9/12/2013 15:01,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Education and Workplace Relations,FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,FALSE,26/11/2013 16:18,TRUE,0,1,47,2,6,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,"Minister for Families, Community Services and Indigenous Affairs",FALSE,Department of Social Services,x Ceased during year - does not fit under an ongoing Portfolio,TRUE,21/10/2013 14:49,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Indigenous Employment and Economic Development,FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,TRUE,9/12/2013 15:03,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,"Minister for Regional Australia, Regional Development and Local Govt",FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,TRUE,16/07/2014 15:58,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Minister for Resources and Energy,FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,FALSE,16/10/2013 16:28,TRUE,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,"Minister for Tertiary Education, Skills, Science and Research ",FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,TRUE,16/07/2014 7:19,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary for Higher Education and Skills,FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,TRUE,16/07/2014 7:45,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014,Parliamentary Secretary for School Education and Workplace Relations,FALSE,No data,x Ceased during year - does not fit under an ongoing Portfolio,TRUE,25/07/2014 22:02,TRUE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
