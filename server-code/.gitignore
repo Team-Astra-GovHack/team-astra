@@ -1,0 +1,66 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.egg
+*.manifest
+*.spec
+
+# ---- Virtual Environments ----
+.venv/
+env/
+venv/
+ENV/
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+
+# ---- Logs & Dumps ----
+*.log
+*.out
+*.err
+*.sqlite3
+*.db
+
+# ---- Testing ----
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# ---- Build / Packaging ----
+build/
+dist/
+pip-wheel-metadata/
+*.egg-info/
+.cache/
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# ---- Project specific ----
+infra/**/terraform.tfstate
+infra/**/terraform.tfstate.backup
+infra/.terraform/
+infra/**/.terraform/
+
+# ---- Jupyter / Notebooks ----
+.ipynb_checkpoints/
+
+# ---- Local scripts / temp ----
+seed_demo.py
+test_*.py
