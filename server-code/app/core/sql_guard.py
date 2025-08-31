@@ -3,10 +3,16 @@ import re
 from app.core.sql_policy import should_inject_limit
 
 # Allow only safe, single-statement, read-only queries
+<<<<<<< HEAD
 ALLOW = re.compile(r"^\s*(?:select|with)\b", re.I)
 STRIP = re.compile(r"/\*.*?\*/|--.*?$", flags=re.M | re.S) # strip /* */ and -- comments
 DANGERS = re.compile(r"\b(insert|update|delete|merge|alter|drop|truncate|grant|revoke|create|copy|vacuum|analyze|explain|commit|rollback|begin|set|reset)\b", re.I)
 PSQL_META = re.compile(r"(^|\s)\\\\\w+", re.I)  # \gdesc, \dt, etc.
+=======
+ALLOW = re.compile(r"^\s*(?:select|show|describe)\b", re.I)
+STRIP = re.compile(r"/\*.*?\*/|--.*?$", re.M | re.S)  # strip /* */ and -- comments
+DANGERS = re.compile(r"\b(insert|update|delete|merge|alter|drop|truncate|grant|revoke|create)\b", re.I)
+>>>>>>> ef991ddbad5eaa967350733e38048b6c1614cc41
 
 def sanitize_sql(sql: str, default_limit: int) -> str:
     s = STRIP.sub(" ", sql).strip()
