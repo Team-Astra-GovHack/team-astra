@@ -3,7 +3,7 @@ import re
 
 # Allow only safe, single-statement, read-only queries
 ALLOW = re.compile(r"^\s*(?:select|show|describe)\b", re.I)
-STRIP = re.compile(r"((?s)/\*.*?\*/)|(--.*?$)", re.M)  # strip /* */ and -- comments
+STRIP = re.compile(r"/\*.*?\*/|--.*?$", re.M | re.S)  # strip /* */ and -- comments
 DANGERS = re.compile(r"\b(insert|update|delete|merge|alter|drop|truncate|grant|revoke|create)\b", re.I)
 
 def sanitize_sql(sql: str, default_limit: int) -> str:
