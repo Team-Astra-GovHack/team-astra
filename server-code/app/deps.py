@@ -2,74 +2,100 @@
 from __future__ import annotations
 from functools import lru_cache
 from sqlalchemy import create_engine
-
 from app.settings import Settings
 from app.core.gemini_client import GeminiClient
 from app.core.embedding_engine import GeminiEmbeddingEngine
 from app.core.rag_repository import PineconeRAGRepository
 from app.core.read_only_db_executor import ReadOnlyDbExecutor
-from app.core.schema_doc import build_schema_overview
+from app.core.knowledge import (
+    build_additional_schema_text,
+    build_value_descriptions_text,
+    collect_problem_identifiers,
+    build_naming_hints,
+)
+from app.core.catalogue import Catalogue, load_catalogue
+from pathlib import Path
 
 
-@lru_cache(maxsize=1)
+@lru_cache
 def settings() -> Settings:
     return Settings()
 
 
-@lru_cache(maxsize=1)
-def engine():
-    s = settings()
-    # Pre-ping keeps connections healthy over time
-    return create_engine(s.DB_URL_RO, pool_pre_ping=True)
-
-
-@lru_cache(maxsize=1)
+@lru_cache
 def gemini() -> GeminiClient:
     s = settings()
-    return GeminiClient(
-        api_key=s.GEMINI_API_KEY,
-        analyst_model=s.GEMINI_MODEL_ANALYST,
-        narrator_model=s.GEMINI_MODEL_NARRATOR,
-    )
+    return GeminiClient(api_key=s.GEMINI_API_KEY, model=s.GEMINI_MODEL)
 
 
-@lru_cache(maxsize=1)
+@lru_cache
 def embedder() -> GeminiEmbeddingEngine:
     s = settings()
     return GeminiEmbeddingEngine(
         api_key=s.GEMINI_API_KEY,
-        model_name=s.GEMINI_MODEL_EMBEDDING,
+        model=s.GEMINI_EMBED_MODEL,  # "text-embedding-004" by default
+        dim=768,
+        timeout=30.0,
     )
 
 
-@lru_cache(maxsize=1)
+@lru_cache
 def repo() -> PineconeRAGRepository:
     s = settings()
-    top_k = int(getattr(s, "RAG_TOP_K", 8))
-    min_score = float(getattr(s, "RAG_MIN_SCORE", 0.0))
-    namespace = getattr(s, "PINECONE_NAMESPACE", "default") or "default"
+    # If you’ve updated your Pinecone client, ENV may be unused; keep index/key.
     return PineconeRAGRepository(
         api_key=s.PINECONE_API_KEY,
         index_name=s.PINECONE_INDEX,
-        namespace=namespace,
-        top_k=top_k,
-        min_score=min_score,
     )
 
 
-@lru_cache(maxsize=1)
+@lru_cache
 def db() -> ReadOnlyDbExecutor:
     s = settings()
-    default_limit = int(getattr(s, "SQL_DEFAULT_LIMIT", 5000))
-    timeout_ms = int(getattr(s, "SQL_STATEMENT_TIMEOUT_MS", 5000))
+    engine = create_engine(s.DB_URL_RO, isolation_level="AUTOCOMMIT")
     return ReadOnlyDbExecutor(
-        engine=engine(),
-        default_limit=default_limit,
-        statement_timeout_ms=timeout_ms,
+        engine=engine,
+        default_limit=s.DEFAULT_SQL_LIMIT,
+        statement_timeout_ms=s.STATEMENT_TIMEOUT_MS,
     )
 
 
-@lru_cache(maxsize=1)
-def schema_overview() -> str:
-    # Build once and cache; refresh requires process restart (simple & fast)
-    return build_schema_overview(engine(), include_schemas=("public",), max_tables=80)
+@lru_cache
+def external_schemas_text() -> str:
+    s = settings()
+    base = Path(__file__).resolve().parents[2]  # project root (server-code/..)
+    return build_additional_schema_text(base, s.DATASET_SCHEMAS_PATH)
+
+
+@lru_cache
+def value_descriptions_text() -> str:
+    s = settings()
+    base = Path(__file__).resolve().parents[2]
+    return build_value_descriptions_text(base, s.VALUE_DESCRIPTIONS_PATH)
+
+
+@lru_cache
+def identifiers_to_quote() -> frozenset[str]:
+    s = settings()
+    base = Path(__file__).resolve().parents[2]
+    ids = collect_problem_identifiers(base, s.DATASET_SCHEMAS_PATH, s.VALUE_DESCRIPTIONS_PATH)
+    return frozenset(ids)
+
+
+@lru_cache
+def use_rag() -> bool:
+    return bool(settings().USE_RAG)
+
+
+@lru_cache
+def naming_hints_text() -> str:
+    s = settings()
+    base = Path(__file__).resolve().parents[2]
+    return build_naming_hints(base, s.DATASET_SCHEMAS_PATH, s.VALUE_DESCRIPTIONS_PATH)
+
+
+@lru_cache
+def catalogue() -> Catalogue:
+    s = settings()
+    base = Path(__file__).resolve().parents[2]
+    return load_catalogue(base, s.DATASET_SCHEMAS_PATH, s.VALUE_DESCRIPTIONS_PATH)

@@ -49,3 +49,13 @@ class PineconeRAGRepository:
                 "metadata": md,
             })
         return out
+
+    def is_empty(self) -> bool:
+        """Best-effort check whether index has any vectors. Returns False on error."""
+        try:
+            stats = self.index.describe_index_stats()
+            # pinecone v3 stats dict may include total_vector_count
+            tv = stats.get("total_vector_count") if isinstance(stats, dict) else None
+            return bool(tv == 0)
+        except Exception:
+            return False

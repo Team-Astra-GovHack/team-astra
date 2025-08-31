@@ -17,3 +17,6 @@ class QueryPlan(BaseModel):
     searchStrategy: str = "hybrid"
     rewrittenQueries: List[str] = Field(default_factory=list)
     reasoning: Optional[str] = None
+    # Optional explicit planner metadata for validation/reference
+    targetTables: List[str] = Field(default_factory=list)
+    keyColumns: List[str] = Field(default_factory=list)

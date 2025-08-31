@@ -1,37 +1,37 @@
+# app/settings.py
+from __future__ import annotations
 from typing import Optional
 from pydantic_settings import BaseSettings, SettingsConfigDict
+from pydantic import Field, AliasChoices
+
 
 class Settings(BaseSettings):
-    # Load .env and ignore any extra keys we don't model explicitly
-    model_config = SettingsConfigDict(
-        env_file=".env",
-        env_file_encoding="utf-8",
-        extra="ignore",
-    )
+    # pydantic v2 config
+    model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
-    ENV: str = "dev"
-    CORS_ALLOW_ORIGINS: str = "*"
-
+    # --- Gemini ---
     GEMINI_API_KEY: str
-    GEMINI_MODEL_ANALYST: str = "gemini-2.5-flash"
-    GEMINI_MODEL_NARRATOR: str = "gemini-2.5-flash"
-    GEMINI_MODEL_EMBEDDING: str = "models/text-embedding-004"
+    # generation model used by Analyst/Narrator
+    GEMINI_MODEL: str = Field(default="gemini-1.5-pro", validation_alias=AliasChoices("GEMINI_MODEL","GEMINI_MODEL_ANALYST"))
+    # embedding model used by the embedder
+    GEMINI_EMBED_MODEL: str = Field(default="text-embedding-004", validation_alias=AliasChoices("GEMINI_EMBED_MODEL","GEMINI_MODEL_EMBEDDING"))
 
+    # --- Database (read-only) ---
     DB_URL_RO: str
-    SQL_DEFAULT_LIMIT: int = 5000
-    SQL_STATEMENT_TIMEOUT_MS: int = 5000
-    EXPLAIN_ROW_CAP: int = 2_000_000
-    EXPLAIN_COST_CAP: int = 50_000_000
+    DEFAULT_SQL_LIMIT: int = Field(default=5000, validation_alias=AliasChoices("DEFAULT_SQL_LIMIT","SQL_DEFAULT_LIMIT"))
+    STATEMENT_TIMEOUT_MS: int = Field(default=20000, validation_alias=AliasChoices("STATEMENT_TIMEOUT_MS","SQL_STATEMENT_TIMEOUT_MS"))  # 20s
+    USE_RAG: bool = False
 
-    PINECONE_API_KEY: str
-    PINECONE_INDEX: str
-    PINECONE_DIM: int = 768
-    PINECONE_NAMESPACE: str = "default"
-    # Not used with Pinecone v3, but keep to avoid confusion/errors
+    # --- Pinecone (RAG) ---
+    PINECONE_API_KEY: Optional[str] = None
+    PINECONE_INDEX: Optional[str] = None
+    # Some installs still keep this around; safe to ignore if unused.
     PINECONE_ENV: Optional[str] = None
 
-    RAG_TOP_K: int = 10
-    RAG_MIN_SCORE: float = 0.0
-    PREFER_SCHEMA: bool = True
+    # Misc
+    APP_NAME: str = "ASTRA API"
+    APP_VERSION: str = "0.1.0"
 
-    SQLITE_PATH: Optional[str] = None
+    # --- Optional external knowledge files ---
+    DATASET_SCHEMAS_PATH: Optional[str] = None
+    VALUE_DESCRIPTIONS_PATH: Optional[str] = None

@@ -1,68 +1,94 @@
 # app/core/gemini_client.py
 from __future__ import annotations
-import json
-import requests
-from typing import Iterator, Optional
-from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
+from dataclasses import dataclass
+from typing import Generator, Optional
 
-# Optional SDK; we gracefully fall back to REST if it's missing
+import google.generativeai as genai
 try:
-    import google.generativeai as genai  # type: ignore
-except Exception:
-    genai = None
+    # Present when google-api-core is installed (pulled by google-generativeai)
+    from google.api_core.exceptions import ResourceExhausted
+except Exception:  # pragma: no cover
+    ResourceExhausted = Exception  # type: ignore
 
 
+@dataclass
 class GeminiClient:
-    def __init__(self, api_key: str, analyst_model: str = "gemini-2.5-flash", narrator_model: str = "gemini-2.5-flash"):
-        self.api_key = api_key
-        self.analyst_model = analyst_model
-        self.narrator_model = narrator_model
-        self._sdk = None
-        if genai:
-            try:
-                genai.configure(api_key=api_key)
-                self._sdk = genai
-            except Exception:
-                # If SDK init fails, continue with REST fallback
-                self._sdk = None
+    api_key: str
+    # Primary model used for both analyst and narrator unless overridden.
+    model: str = "gemini-1.5-pro"
+    # Fallback model used when rate limited or quota-exhausted.
+    fallback_model: str = "gemini-1.5-flash"
+    temperature: float = 0.2
 
-    @retry(
-        reraise=True,
-        stop=stop_after_attempt(4),
-        wait=wait_exponential(multiplier=0.5, min=0.5, max=8),
-        retry=retry_if_exception_type((requests.RequestException,)),
-    )
-    def _generate(self, model: str, text: str) -> str:
-        """Generate a single non-streamed response from Gemini."""
-        if self._sdk:
-            resp = self._sdk.GenerativeModel(model).generate_content(text)
-            return (getattr(resp, "text", "") or "").strip()
+    def __post_init__(self) -> None:
+        genai.configure(api_key=self.api_key)
+        self._primary = genai.GenerativeModel(self.model)
+        self._fallback = (
+            genai.GenerativeModel(self.fallback_model)
+            if self.fallback_model and self.fallback_model != self.model
+            else self._primary
+        )
 
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={self.api_key}"
-        r = requests.post(url, json={"contents": [{"parts": [{"text": text}]}]}, timeout=60)
-        r.raise_for_status()
-        data = r.json()
-        cand = (data.get("candidates") or [{}])[0].get("content", {}).get("parts", [{}])[0].get("text", "")
-        return (cand or "").strip()
+    def _try_generate(self, prompt: str, *, temperature: float, stream: bool = False):
+        """Try primary model; on quota (429) fall back once to fallback model."""
+        try:
+            return self._primary.generate_content(
+                prompt,
+                generation_config={"temperature": temperature},
+                stream=stream,
+            )
+        except ResourceExhausted:
+            # Switch to fallback model once
+            if self._fallback is self._primary:
+                raise
+            return self._fallback.generate_content(
+                prompt,
+                generation_config={"temperature": temperature},
+                stream=stream,
+            )
+        except Exception as e:
+            # Heuristic: if looks like quota/rate limit, fall back once
+            msg = str(e).lower()
+            if ("429" in msg or "quota" in msg or "rate" in msg) and (self._fallback is not self._primary):
+                return self._fallback.generate_content(
+                    prompt,
+                    generation_config={"temperature": temperature},
+                    stream=stream,
+                )
+            raise
 
     def analyst(self, prompt: str) -> str:
-        return self._generate(self.analyst_model, prompt)
-
-    def narrator_stream(self, prompt: str) -> Iterator[str]:
-        """Stream narrator output if SDK available; otherwise fall back to one-shot REST."""
-        if self._sdk:
-            model = self._sdk.GenerativeModel(self.narrator_model)
-            for ev in model.generate_content(prompt, stream=True):
-                if getattr(ev, "text", None):
-                    yield ev.text
-            return
-        # REST fallback (non-streaming)
-        yield self._generate(self.narrator_model, prompt)
-
-    def json_only(self, model: str, prompt: str) -> Optional[dict]:
-        raw = self._generate(model, prompt)
-        cleaned = raw.replace("```json", "").replace("```", "").strip()
+        """
+        Synchronous call used for planning/JSON generation (Analyst, SQL planner).
+        Keep temperature low to minimize hallucinations.
+        """
         try:
-            return json.loads(cleaned)
+            resp = self._try_generate(
+                prompt,
+                temperature=0.0,
+                stream=False,
+            )
+            # Prefer .text, fall back to first candidate if needed
+            if getattr(resp, "text", None):
+                return resp.text
+            try:
+                return resp.candidates[0].content.parts[0].text  # type: ignore[attr-defined]
+            except Exception:
+                return ""
         except Exception:
-            return None
+            # Gracefully degrade so upstream can repair/continue
+            return ""
+
+    def narrator_stream(self, prompt: str) -> Generator[str, None, None]:
+        """
+        Stream tokens/chunks for the Narrator role.
+        """
+        try:
+            stream = self._try_generate(prompt, temperature=0.3, stream=True)
+            for ev in stream:
+                chunk = getattr(ev, "text", "") or ""
+                if chunk:
+                    yield chunk
+        except Exception:
+            # Let caller decide how to handle narrator failure
+            return
